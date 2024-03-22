@@ -1,12 +1,11 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: https: //raw.githubusercontent.com/Heijingmei/Heijingmei.github.io/main/img/background1.jpg
 ---
 
 # Intro Page
 
 Place your introduction and profile here.
-
 
 
 
