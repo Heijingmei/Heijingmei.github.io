@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /Users/yue/BlaueHoelle/blauehoelle/src/logo.png
 heroText: Blue Hell
 tagline: Lost temporally within the mainstream hegemonyic spiel,<br>the one will eventually find solace in the blue hell.
 heroFullScreen: true
