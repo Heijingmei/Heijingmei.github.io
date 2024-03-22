@@ -5,7 +5,7 @@ icon: home
 title: Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Blaue Hölle
-tagline: You can put your slogan here
+tagline: Diejenigen, die in der hegemonialen Erzählung des Mainstreams verloren lassen, werden schließlich Trost in der blauen(niedergeschlagenen) Hölle finden.
 heroFullScreen: true
 projects:
   - icon: project

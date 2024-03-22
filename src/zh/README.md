@@ -4,9 +4,10 @@ layout: BlogHome
 icon: home
 title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Blaue Hölle BH工作室
+heroText: Blaue Hölle BH工作室（中二版）
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 忧郁的冥渊，蓝色的黑色
+在主流霸权里迷失的虔信者，终在忧郁的冥渊迎来救赎
 projects:
   - icon: project
     name: 项目名称
