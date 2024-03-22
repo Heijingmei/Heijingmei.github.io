@@ -5,7 +5,7 @@ icon: home
 title: Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Blue Hell
-tagline: Lost temporally within the mainstream hegemonyic spiel, the one will eventually find solace in the blue hell.
+tagline: Lost temporally within the mainstream hegemonyic spiel,\\the one will eventually find solace in the blue hell.
 heroFullScreen: true
 projects:
   - icon: project
