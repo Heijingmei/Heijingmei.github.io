@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage:![logo](./logo.png)
+![logo](./logo.png)
 heroText: Blue Hell
 tagline: Lost temporally within the mainstream hegemonyic spiel,<br>the one will eventually find solace in the blue hell.
 heroFullScreen: true
