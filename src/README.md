@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Blaue Hölle BH工作室
+heroText: Blue Hell
 tagline: You can put your slogan here
 heroFullScreen: true
 projects:
