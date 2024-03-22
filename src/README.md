@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Blue Hell
 tagline: You can put your slogan here

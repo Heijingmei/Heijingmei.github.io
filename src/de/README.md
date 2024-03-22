@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: Blaue Hölle
 heroFullScreen: true
