@@ -8,6 +8,9 @@ devDependencies:
   '@vuepress/bundler-vite':
     specifier: 2.0.0-rc.9
     version: 2.0.0-rc.9
+  '@waline/client':
+    specifier: ^3.1.3
+    version: 3.1.3
   vue:
     specifier: ^3.4.21
     version: 3.4.21
@@ -16,7 +19,7 @@ devDependencies:
     version: 2.0.0-rc.9(@vuepress/bundler-vite@2.0.0-rc.9)(vue@3.4.21)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.32
-    version: 2.0.0-rc.32(markdown-it@14.1.0)(vuepress@2.0.0-rc.9)
+    version: 2.0.0-rc.32(@waline/client@3.1.3)(markdown-it@14.1.0)(vuepress@2.0.0-rc.9)
 
 packages:
 
@@ -1070,7 +1073,7 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-comment@2.0.0-rc.21(vuepress@2.0.0-rc.9):
+  /@vuepress/plugin-comment@2.0.0-rc.21(@waline/client@3.1.3)(vuepress@2.0.0-rc.9):
     resolution: {integrity: sha512-17Qpwz/W/B3cVLiCTq0UO18dy1ejf563mURas7XgqIcIibGE3G1k5kTftDbwbpehQ0e/4okdIwnkSxPpeGPOFw==}
     peerDependencies:
       '@waline/client': ^3.1.0
@@ -1089,6 +1092,7 @@ packages:
         optional: true
     dependencies:
       '@vuepress/helper': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
+      '@waline/client': 3.1.3
       giscus: 1.5.0
       vue: 3.4.21
       vuepress: 2.0.0-rc.9(@vuepress/bundler-vite@2.0.0-rc.9)(vue@3.4.21)
@@ -1297,6 +1301,27 @@ packages:
       - vue
     dev: true
 
+  /@waline/api@1.0.0-alpha.7:
+    resolution: {integrity: sha512-IcMah3Li+ueS2Wr0Odd9Ri/PPh1ePOdHLE4CAw1KZNPgNTeLw0lFak/+B4ttVZuW8eFq7DTSmxoUFHGLhi8WoQ==}
+    engines: {node: '>=18'}
+    dev: true
+
+  /@waline/client@3.1.3:
+    resolution: {integrity: sha512-jYSuu6Xihsz9Bg9YTXEwUho2vu3FXzxc+y3c3PscO8pYpShtVhrsVF9fzdpfKyh/FDIKa5BpCBOTkigMb2NK3A==}
+    engines: {node: '>=18'}
+    dependencies:
+      '@vueuse/core': 10.9.0(vue@3.4.21)
+      '@waline/api': 1.0.0-alpha.7
+      autosize: 6.0.1
+      marked: 12.0.1
+      marked-highlight: 2.1.1(marked@12.0.1)
+      recaptcha-v3: 1.10.0
+      vue: 3.4.21
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - typescript
+    dev: true
+
   /ansi-regex@5.0.1:
     resolution: {integrity: sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==}
     engines: {node: '>=8'}
@@ -1350,6 +1375,10 @@ packages:
       picocolors: 1.0.0
       postcss: 8.4.38
       postcss-value-parser: 4.2.0
+    dev: true
+
+  /autosize@6.0.1:
+    resolution: {integrity: sha512-f86EjiUKE6Xvczc4ioP1JBlWG7FKrE13qe/DxBCpe8GCipCq2nFw73aO8QEBKHfSbYGDN5eB9jXWKen7tspDqQ==}
     dev: true
 
   /balloon-css@1.2.0:
@@ -1973,6 +2002,20 @@ packages:
       uc.micro: 2.1.0
     dev: true
 
+  /marked-highlight@2.1.1(marked@12.0.1):
+    resolution: {integrity: sha512-ktdqwtBne8rim5mb+vvZ9FzElGFb+CHCgkx/g6DSzTjaSrVnxsJdSzB5YgCkknFrcOW+viocM1lGyIjC0oa3fg==}
+    peerDependencies:
+      marked: '>=4 <13'
+    dependencies:
+      marked: 12.0.1
+    dev: true
+
+  /marked@12.0.1:
+    resolution: {integrity: sha512-Y1/V2yafOcOdWQCX0XpAKXzDakPOpn6U0YLxTJs3cww6VxOzZV1BTOOYWLvH3gX38cq+iLwljHHTnMtlDfg01Q==}
+    engines: {node: '>= 18'}
+    hasBin: true
+    dev: true
+
   /mdurl@2.0.0:
     resolution: {integrity: sha512-Lf+9+2r+Tdp5wXDXC4PcIBjTDtq4UKjCPMQhKIuzpJNW0b96kVqSwW0bT7FhRSfmAiFYgP+SCRvdrDozfh0U5w==}
     dev: true
@@ -2201,6 +2244,10 @@ packages:
     engines: {node: '>=8.10.0'}
     dependencies:
       picomatch: 2.3.1
+    dev: true
+
+  /recaptcha-v3@1.10.0:
+    resolution: {integrity: sha512-aGTxYSk3FFNKnXeKDbLpgRDRyIHRZNBF5HyaXXAN1Aj4TSyyZvmoAn9CylvpqLV3pYpIQavwc+2rzhNFn5SsLQ==}
     dev: true
 
   /require-directory@2.1.1:
@@ -2673,7 +2720,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-theme-hope@2.0.0-rc.32(markdown-it@14.1.0)(vuepress@2.0.0-rc.9):
+  /vuepress-theme-hope@2.0.0-rc.32(@waline/client@3.1.3)(markdown-it@14.1.0)(vuepress@2.0.0-rc.9):
     resolution: {integrity: sha512-5S5qg5xa0TErqVjpubhBN5oy0QmROd+ja5EQKfORUCKdXKQvx0soojQZnCPkXsUEXonwiZ12oCLN2+UGO03eng==}
     engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -2709,7 +2756,7 @@ packages:
       '@vuepress/plugin-back-to-top': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
       '@vuepress/plugin-blog': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
       '@vuepress/plugin-catalog': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
-      '@vuepress/plugin-comment': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
+      '@vuepress/plugin-comment': 2.0.0-rc.21(@waline/client@3.1.3)(vuepress@2.0.0-rc.9)
       '@vuepress/plugin-copy-code': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
       '@vuepress/plugin-copyright': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
       '@vuepress/plugin-external-link-icon': 2.0.0-rc.21(vuepress@2.0.0-rc.9)
