@@ -40,8 +40,8 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+#footer: customize your footer text
 
 ---
 
-Author [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
+#Author [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
