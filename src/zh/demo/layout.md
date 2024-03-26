@@ -28,4 +28,4 @@ tag:
 - [返回顶部按钮](https://theme-hope.vuejs.press/guide/interface/others.html#返回顶部按钮)
 - [打印按钮](https://theme-hope.vuejs.press/guide/interface/others.html#打印按钮)
 
-你可以在主题选项和页面的 frontmatter 中自定义它们。
+你可以在主题选项和页面的 frontmatter 中自定义它们.
