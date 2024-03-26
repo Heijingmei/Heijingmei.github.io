@@ -122,7 +122,7 @@ export default hopeTheme({
      comment: {
        provider: "Waline",
        serverURL: "https://comment.blauehoelle.com",
-    // },
+      },
 
     components: {
       components: ["Badge", "VPCard"],
