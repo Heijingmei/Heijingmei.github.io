@@ -43,4 +43,4 @@ projects:
 footer: customize your footer text
 ---
 
-#Author [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
+Author [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
