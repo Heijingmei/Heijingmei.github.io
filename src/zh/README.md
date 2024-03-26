@@ -41,7 +41,7 @@ projects:
     link: https://link.to.your.friend
 
 footer: customize your footer text
+
 ---
 
-原作者 [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
-
+Author [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
