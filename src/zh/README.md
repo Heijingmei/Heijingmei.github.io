@@ -42,3 +42,6 @@ projects:
 
 footer: customize your footer text
 ---
+
+原作者 [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
+
