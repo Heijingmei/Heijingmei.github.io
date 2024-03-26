@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/img/logo.png",
+  logo: "/img/Heijingmei.png",
 
   repo: "Heijingmei/Heijingmei.github.io",
 
