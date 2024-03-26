@@ -6,8 +6,8 @@ icon: home
 title: Home
 bgImage: /img/background1.png
 heroImage: /img/logo.png
-heroText: Blue Hell
-tagline: Lost temporally within the mainstream hegemonyic spiel,<br>the one will eventually find solace in the blue hell.
+heroText: BH工作室
+tagline: 若有知音见觅，不辞遍唱阳春
 heroFullScreen: true
 projects:
   - icon: project
