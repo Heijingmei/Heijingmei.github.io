@@ -68,7 +68,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "A collage stundent.",
         intro: "/intro.html",
       },
 
@@ -92,7 +92,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "在读大学生,偶尔摸鱼",
         intro: "/zh/intro.html",
       },
 
