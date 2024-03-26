@@ -7,17 +7,17 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "BH_English_Version",
+      title: "BH_English Version",
       description: "Welcome to my home page!",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "BH工作室主页",
+      title: "BH工作室",
       description: "欢迎来到首页",
     },
     "/de/": {
       lang: "ger-De",
-      title: "BH_Deutsch_Auflage",
+      title: "BH_Deutsch-Auflage",
       description: "Welcome to my home page!",
     },
   },
