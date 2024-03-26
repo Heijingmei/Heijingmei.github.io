@@ -34,7 +34,7 @@ export default hopeTheme({
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
       // Gitlab: "https://example.com",
-      // Gmail: "mailto:info@example.com",
+      Gmail: "bh.qing.jing@gmail.com",
       // Instagram: "https://example.com",
       // Lark: "https://example.com",
       // Lines: "https://example.com",
