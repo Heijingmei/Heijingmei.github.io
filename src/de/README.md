@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Home
 bgImage: /img/background1.png
-heroImage:/img/logo.png
+heroImage: /img/logo.png
 heroText: Blaue Hölle
 tagline: Diejenigen, die sich in der hegemonialen Erzählung des Mainstreams verloren lassen, <br>werden schließlich Trost in der blauen(niedergeschlagenen) Hölle finden.
 heroFullScreen: true
