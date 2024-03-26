@@ -5,14 +5,13 @@ cover: /img/background1.jpg
 
 # Intro Page
 
-Hello everyone, this is our studio <i>Blue Hell</i>. I'm Lilya (my Chinese name: 黑静美), who developes this webpage.
+Hello everyone, this is our studio <i>Blue Hell</i>. I'm Lilya (my Chinese name: 黑静美), who developes this webpage. <br>
 
-The main members of the studio and thier  are:
+The main members of the studio and thier business are:<br>
 
-Lilya (Web Design) 
-Qingjing (Healing Divination)
+Lilya (Web Design) <br>Qingjing (Healing Divination)<br>
 
-If you have any needs, please contact Miss Qingjing via WeChat: BH_Qingjing.
+If you have any needs, please contact Miss Qingjing via WeChat: BH_Qingjing.<br>
 
 
 
