@@ -6,7 +6,7 @@ icon: home
 title: Home
 bgImage: /img/background1.png
 heroImage: /img/logo.png
-heroText: BH工作室 蓝色幽冥
+heroText: BH工作室
 tagline: 若有知音见觅，不辞遍唱青冥
 heroFullScreen: true
 projects:
