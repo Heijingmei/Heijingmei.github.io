@@ -6,11 +6,12 @@ cover: /img/background1.jpg
 # Intro Page
 
 
+Hello everyone, this is our studio </i>Blue Hell<i>. I'm Shizumi(黑静美), who developes this webpage.(Thanks for the original program by Mr. Hope)
 
-Hello everyone, this is Studio </i>Blue Hell<i>. I'm Shizumi(黑静美), who developes this webpage.(THanks for the)
+The main members of the studio and their are:
 
-Currently, the main members of the studio and the services we offer are:
+Shizumi (web design)
 
-Hei Jingmei (Web Design) Qingjing (Healing Divination)
+Qingjing (Healing Tarot divination)
 
-If you have any needs, please contact Miss Qingjing via WeChat: BH_Qingjing.
+If you have any requirements or want to cooperate with us , please contact Qingjing via WeChat: BH_Qingjing.

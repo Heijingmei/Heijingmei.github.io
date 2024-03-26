@@ -40,5 +40,5 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-#footer: customize your footer text
+footer: customize your footer text
 ---
