@@ -3,7 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: //raw.githubusercontent.com/Heijingmei/Heijingmei.github.io/main/img/logo.png
+heroImage:/img/logo.png
+bgImage: /img/background1.jpg
 heroText: Blaue Hölle
 tagline: Diejenigen, die sich in der hegemonialen Erzählung des Mainstreams verloren lassen, <br>werden schließlich Trost in der blauen(niedergeschlagenen) Hölle finden.
 heroFullScreen: true

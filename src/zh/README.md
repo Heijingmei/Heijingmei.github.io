@@ -3,7 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: //raw.githubusercontent.com/Heijingmei/Heijingmei.github.io/main/img/logo.png
+heroImage:/img/logo.png
+bgImage: /img/background1.jpg
 heroText: Blaue Hölle BH工作室（中二版）
 heroFullScreen: true
 tagline: 忧郁的冥渊，蓝色的黑色<br>在主流霸权里迷失的虔信者，终在忧郁的冥渊迎来救赎
