@@ -21,6 +21,7 @@ export default hopeTheme({
 
   blog: {
     medias: {
+      GitHub: "https://github.com/Heijingmei",
       BiliBili: "https://space.bilibili.com/3546593663912204",
       // Baidu: "https://example.com",
       // Bitbucket: "https://example.com",
@@ -32,7 +33,6 @@ export default hopeTheme({
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      // GitHub: "https://github.com/Heijingmei",
       // Gitlab: "https://example.com",
       // Gmail: "mailto:info@example.com",
       // Instagram: "https://example.com",
