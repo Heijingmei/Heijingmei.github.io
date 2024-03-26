@@ -4,25 +4,25 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 import { MR_HOPE_AVATAR } from "./logo.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://github.com/Heijingmei/Heijingmei.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "黑静美",
+    url: "https://blauehoelle.com",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/img/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "Heijingmei/Heijingmei.github.io",
 
   docsDir: "src",
 
   blog: {
     medias: {
       Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      BiliBili: "https://space.bilibili.com/3546593663912204",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
       Discord: "https://example.com",

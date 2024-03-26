@@ -12,7 +12,7 @@ export default defineUserConfig({
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "博客演示",
+      title: "BH工作室主页",
       description: "欢迎来到首页",
     },
     "/de/": {
