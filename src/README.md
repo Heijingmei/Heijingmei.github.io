@@ -3,7 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: //raw.githubusercontent.com/Heijingmei/Heijingmei.github.io/main/img/logo.png
+heroImage:/img/logo.png
+bgImage: /background1.jpg
 heroText: Blue Hell
 tagline: Lost temporally within the mainstream hegemonyic spiel,<br>the one will eventually find solace in the blue hell.
 heroFullScreen: true
