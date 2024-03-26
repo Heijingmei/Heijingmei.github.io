@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: //raw.githubusercontent.com/Heijingmei/Heijingmei.github.io/main/img/background1.jpg
+cover: /img/background1.jpg
 ---
 
 # Intro Page
