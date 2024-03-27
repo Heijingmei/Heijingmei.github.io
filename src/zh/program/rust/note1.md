@@ -6,8 +6,8 @@ isOriginal: true
 category: 
     - Programm
 tag:
-    - C
-    - Struktur
+    - rust
+    -
 icon: c
 sticky: false
 star: false
