@@ -1,5 +1,5 @@
 ---
-title: 01-C 语言基础概念
+title: 数据结构
 date: 2023-07-16 16:09:18
 author: Lilya 黑静美
 isOriginal: true
@@ -7,7 +7,7 @@ category:
     - Programm
 tag:
     - C
-    - Struktur
+    - 数据结构
 icon: c
 sticky: false
 star: false

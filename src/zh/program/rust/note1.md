@@ -1,5 +1,5 @@
 ---
-title: 01-C 语言基础概念
+title: 01-rust第一课
 date: 2023-07-16 16:09:18
 author: Lilya 黑静美
 isOriginal: true
