@@ -13,13 +13,14 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/img/Heijingmei.png",
+  logo: "/img/logo.png",
 
   repo: "Heijingmei/Heijingmei.github.io",
 
   docsDir: "src",
 
   blog: {
+    avatar:"/img/Heijingmei.png",
     medias: {
       GitHub: "https://github.com/Heijingmei",
       BiliBili: "https://space.bilibili.com/3546593663912204",
