@@ -32,7 +32,13 @@ export default defineUserConfig({
         // href: "shortcut icon",
       }
     ]
-  ]
+  ],
+
+  markdown: {
+    headers: {
+      level: [2, 3, 4, 5, 6],
+    }
+  }
   // Enable it with pwa
   // shouldPrefetch: false,
 });
