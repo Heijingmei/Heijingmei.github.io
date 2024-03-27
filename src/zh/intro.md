@@ -1,6 +1,5 @@
 ---
 icon: circle-info
-cover: /img/background1.jpg
 ---
 
 # 自我介绍
