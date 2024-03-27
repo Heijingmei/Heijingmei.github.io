@@ -1,6 +1,6 @@
 ---
 title: 敬请期待
-date: 2023-07-16 16:09:18
+date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
@@ -8,7 +8,7 @@ category:
 tag:
     - 
     - 
-icon: c
+icon: 
 sticky: false
 star: false
 article: true
@@ -28,3 +28,6 @@ backToTop: true
 
 
 敬请期待
+
+Please wait for some time.This module is coming soon. 
+Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.

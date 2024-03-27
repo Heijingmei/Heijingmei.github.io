@@ -1,13 +1,13 @@
 ---
-title: 敬请期待
-date: 2023-07-16 16:09:18
+title: 01-Einführung zur C Sprache
+date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - Programm
 tag:
-    - 
-    - 
+    - C
+    - C#
 icon: c
 sticky: false
 star: false
@@ -23,8 +23,7 @@ editLink: false
 backToTop: true
 ---
 
-# 敬请期待
+# 1.Einführung zur C Sprache
 
 
 
-敬请期待
