@@ -20,7 +20,7 @@ export default hopeTheme({
   docsDir: "src",
 
   blog: {
-    avatar:"/img/Heijingmei.png",
+    avatar: "/img/Heijingmei.png",
     medias: {
       GitHub: "https://github.com/Heijingmei",
       BiliBili: "https://space.bilibili.com/3546593663912204",
