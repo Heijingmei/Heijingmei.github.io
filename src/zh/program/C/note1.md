@@ -27,7 +27,9 @@ backToTop: true
 
 **C**是一种通用的、[过程式编程](https://zh.wikipedia.org/wiki/%E8%BF%87%E7%A8%8B%E5%BC%8F%E7%BC%96%E7%A8%8B)[程式语言](https://zh.wikipedia.org/wiki/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80)，支持[结构化编程](https://zh.wikipedia.org/wiki/%E7%BB%93%E6%9E%84%E5%8C%96%E7%BC%96%E7%A8%8B)、词法作用域和[递归](https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92)，使用静态类型系统，并且广泛用于[系统软件](https://zh.wikipedia.org/wiki/%E7%B3%BB%E7%BB%9F%E8%BD%AF%E4%BB%B6)与[应用软件](https://zh.wikipedia.org/wiki/%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6)的开发。
 C语言于1969年至1973年间，为了移植与开发[UNIX](https://zh.wikipedia.org/wiki/UNIX)[作业系统](https://zh.wikipedia.org/wiki/%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1)，由[丹尼斯·里奇](https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E6%96%AF%C2%B7%E9%87%8C%E5%A5%87)与[肯·汤普逊](https://zh.wikipedia.org/wiki/%E8%82%AF%C2%B7%E6%B1%A4%E6%99%AE%E9%80%8A)，以[B语言](https://zh.wikipedia.org/wiki/B%E8%AF%AD%E8%A8%80)为基础，在[贝尔实验室](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4)设计、开发出来。
+
 # Hallo, world!
+
 ```c
 #include <stdio.h> //TODO:引入头文件 studio.h
 //为了使用printf函数，需要首先包括所需文件，也称为头文件
