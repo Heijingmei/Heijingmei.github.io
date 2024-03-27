@@ -3,7 +3,6 @@ import { navbar } from "vuepress-theme-hope";
 export const zhNavbar = navbar([
   "/zh/",
   "/好好好",
-  {
       {
         text: "香蕉",
         icon: "pen-to-square",
@@ -23,7 +22,7 @@ export const zhNavbar = navbar([
           "4",
         ],
       },
-  }
+
   {
     text: "V2 文档",
     icon: "book",
