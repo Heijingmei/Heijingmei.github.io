@@ -23,6 +23,7 @@ export const zhNavbar = navbar([
           "4",
         ],
       },
+  }
   {
     text: "V2 文档",
     icon: "book",
