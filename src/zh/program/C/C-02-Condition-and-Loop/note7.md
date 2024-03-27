@@ -1,5 +1,5 @@
 ---
-title: 01-Einführung zur C Sprache
+title: 
 date: 
 author: Lilya 黑静美
 isOriginal: true
@@ -22,8 +22,4 @@ lastUpdated: true
 editLink: false
 backToTop: true
 ---
-
-# 1.Einführung zur C Sprache
-
-Der Artikel auf Deutsch wird noch nicht bearbeitet. Sie können zuerst die chinesische Auflage lesen.
 

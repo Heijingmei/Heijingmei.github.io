@@ -1,14 +1,14 @@
 ---
-title: 01-Einführung zur C Sprache
+title: 敬请期待
 date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - Programm
+    - 
 tag:
-    - C
-    - C#
-icon: c
+    - 
+    - 
+icon: 
 sticky: false
 star: false
 article: true
@@ -23,7 +23,12 @@ editLink: false
 backToTop: true
 ---
 
-# 1.Einführung zur C Sprache
+# 敬请期待
 
 
 
+敬请期待
+
+Please wait for some time.This module is coming soon. 
+
+Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.

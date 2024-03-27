@@ -1,14 +1,14 @@
 ---
-title: 敬请期待
+title: 
 date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - Programm
 tag:
-    - 
-    - 
-icon: 
+    - C
+    - C#
+icon: c
 sticky: false
 star: false
 article: true
@@ -23,11 +23,3 @@ editLink: false
 backToTop: true
 ---
 
-# 敬请期待
-
-
-
-敬请期待
-
-Please wait for some time.This module is coming soon. 
-Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.

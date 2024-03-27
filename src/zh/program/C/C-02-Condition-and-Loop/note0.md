@@ -1,5 +1,5 @@
 ---
-title: 2_0-C program languege
+title: 0-逻辑运算符
 date: 
 author: Lilya 黑静美
 isOriginal: true
