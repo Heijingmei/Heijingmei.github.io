@@ -4,12 +4,11 @@ date:
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 数学
+    - math
     - algebra
 tag:
     - LA
-    - 群论
-icon: 
+    - group theory
 sticky: false
 star: false
 article: true
