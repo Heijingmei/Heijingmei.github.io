@@ -8,7 +8,7 @@ category:
 tag:
     - 
     - 
-icon: https://app-1253314979.cos.ap-beijing.myqcloud.com/favicon.ico
+icon: 
 sticky: false
 star: false
 article: true
