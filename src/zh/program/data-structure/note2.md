@@ -6,9 +6,9 @@ isOriginal: true
 category: 
     - Programm
 tag:
-    - C
+    - python
     - 数据结构
-icon: c
+icon: /img/python.ico
 sticky: false
 star: false
 article: true
@@ -25,7 +25,5 @@ backToTop: true
 ---
 
 # 敬请期待
-
-
 
 敬请期待
