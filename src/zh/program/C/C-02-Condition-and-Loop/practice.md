@@ -1,14 +1,14 @@
 ---
-title: 敬请期待
+title: 练习
 date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - Programm
 tag:
-    - 
-    - 
-icon: 
+    - C
+    - C#
+icon: c
 sticky: false
 star: false
 article: true
