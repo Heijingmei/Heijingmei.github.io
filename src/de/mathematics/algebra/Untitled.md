@@ -1,14 +1,14 @@
 ---
-title: the Introduction about the Module Tarot
+title: 敬请期待
 date: 
-author: Qingjing 青菁
+author: Lilya 黑静美
 isOriginal: true
 category: 
     - 
 tag:
     - 
     - 
-icon: /img/crystal-ball.ico
+icon: 
 sticky: false
 star: false
 article: true
@@ -24,9 +24,9 @@ backToTop: true
 
 ---
 
-
-
 # 敬请期待
+
+
 
 敬请期待
 
