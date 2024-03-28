@@ -8,7 +8,7 @@ category:
 tag:
     - python
     - 数据结构
-icon: /img/python.ico
+icon: /img/Python.ico
 sticky: false
 star: false
 article: true
