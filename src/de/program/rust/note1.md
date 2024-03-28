@@ -8,7 +8,7 @@ category:
 tag:
     - 
     - 
-icon: 
+icon: /img/Rust.ico
 sticky: false
 star: false
 article: true
