@@ -4,9 +4,9 @@ date:
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - 编程
 tag:
-    - 
+    - python
     - 
 icon: /img/Python.ico
 sticky: false

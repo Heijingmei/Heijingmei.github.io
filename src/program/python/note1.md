@@ -6,7 +6,7 @@ isOriginal: true
 category: 
     - 
 tag:
-    - 
+    - python
     - 
 icon: /img/python.ico
 sticky: false

@@ -4,7 +4,7 @@ date:
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - Programm
+    - 编程
 tag:
     - C
     - 数据结构

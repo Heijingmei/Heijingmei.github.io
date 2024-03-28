@@ -4,10 +4,10 @@ date:
 author: Qingjing 青菁
 isOriginal: true
 category: 
-    - 
+    - 青菁专栏
 tag:
-    - 
-    - 
+    - 塔罗
+    - 疗愈
 icon: /img/crystal-ball.ico
 sticky: false
 star: false
