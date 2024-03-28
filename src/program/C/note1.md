@@ -1,5 +1,5 @@
 ---
-title: 01-C program languege
+title: 01 C program languege
 date: 
 author: Lilya 黑静美
 isOriginal: true
