@@ -8,7 +8,7 @@ category:
 tag:
     - python
     - 
-icon: /img/Python.ico
+icon: /img/python.ico
 sticky: false
 star: false
 article: true
