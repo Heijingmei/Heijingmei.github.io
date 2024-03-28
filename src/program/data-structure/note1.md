@@ -8,7 +8,7 @@ category:
 tag:
     - 
     - 
-icon: C
+icon: c
 sticky: false
 star: false
 article: true
