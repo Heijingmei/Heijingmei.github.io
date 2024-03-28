@@ -1,14 +1,14 @@
 ---
-title: 敬请期待
+title: 关于塔罗模块的说明<the Introduction about theModule Tarot>
 date: 
-author: Lilya 黑静美
+author: Qingjing 青菁
 isOriginal: true
 category: 
     - 
 tag:
     - 
     - 
-icon: https://app-1253314979.cos.ap-beijing.myqcloud.com/favicon.ico
+icon: 🔮
 sticky: false
 star: false
 article: true
@@ -21,11 +21,12 @@ comment: true
 lastUpdated: true
 editLink: false
 backToTop: true
+
 ---
 
+
+
 # 敬请期待
-
-
 
 敬请期待
 

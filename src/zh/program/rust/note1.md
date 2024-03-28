@@ -8,7 +8,7 @@ category:
 tag:
     - rust
     -
-icon: rust
+icon: /img/rust.ico
 sticky: false
 star: false
 article: true
