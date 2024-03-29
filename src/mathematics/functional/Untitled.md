@@ -4,11 +4,11 @@ date:
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 数学
-    - 泛函
+    - math
+    - functional
 tag:
-    - 分析入门
-    - 实分析
+    - analysis
+    - analysis about real
 icon: 
 sticky: false
 star: false
