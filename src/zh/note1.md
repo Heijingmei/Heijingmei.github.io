@@ -1,31 +1,8 @@
 ---
-title: 关于塔罗模块的说明
-date: 
-author: Lilya
-isOriginal: true
-category: 
-    - 
-tag:
-    - 
-    - 
+title: 网页导航
 icon: circle-info
-sticky: false
-star: false
-article: true
-timeline: true
-image: false
-navbar: true
-sidebarIcon: true
-headerDepth: 3
-comment: true
-lastUpdated: true
-editLink: false
-backToTop: true
-
 
 ---
-
-
 
 # 标题
 
@@ -42,3 +19,24 @@ backToTop: true
 ###### 六级
 
 ####### 最多六级标题
+
+# 尝试
+
+⬆️一级<br>
+一级别标题放在最开始会不显示⬇️
+
+![image-20240329174233495](./note1.assets/image-20240329174233495.png)
+
+上述代码为：
+
+```markdown
+# 标题
+⬆️最开始的题目为一级标题
+## 二级
+### 三级
+#### 四级
+##### 五级
+###### 六级
+####### 最多六级标题
+# 尝试
+```
