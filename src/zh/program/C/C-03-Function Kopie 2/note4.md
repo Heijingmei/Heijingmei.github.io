@@ -25,8 +25,6 @@ backToTop: true
 
 # 敬请期待
 
-
-
 敬请期待
 
 Please wait for some time.This module is coming soon. 
