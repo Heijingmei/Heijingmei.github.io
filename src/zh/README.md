@@ -3,7 +3,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Home
+title: BH工作室
 bgImage: /img/background1.png
 heroImage: /img/logo.png
 heroText: BH工作室 蓝色冥渊
