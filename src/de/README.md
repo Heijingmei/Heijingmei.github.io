@@ -7,7 +7,7 @@ title: Blaue Hölle
 bgImage: /img/background1.png
 heroImage: /img/logo.png
 heroText: Blaue Hölle
-tagline: Wer in der hegemonialen Erzählung des Mainstreams verloren haben，<br>werden der schließlich Trost in der blauen(niedergeschlagenen) Hölle finden.
+tagline: Wer in der hegemonialen Erzählung des Mainstreams verloren haben，<br>der werden schließlich Trost in der blauen(niedergeschlagenen) Hölle finden.
 heroFullScreen: true
 projects:
   - icon: project
