@@ -71,6 +71,7 @@ rustup update
 rustup self uninstall
 
 rustc --version #适用于windows！！！
+rustc -V
 ```
 
 ##### ![这是一个windows系统的示例 1.47.0是所展示图片的当前安装的rsut的版本号](https://cdn.nlark.com/yuque/0/2023/png/39218772/1698278979636-f4034022-070c-47fa-bc91-18f58db98160.png#averageHue=%23151515&clientId=ud85b67a3-b82a-4&from=drop&id=u49952e8b&originHeight=958&originWidth=1742&originalType=binary&ratio=2&rotation=0&showTitle=true&size=471046&status=done&style=none&taskId=u777302b2-b763-47af-8366-fd8a9a245a0&title=%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AAwindows%E7%B3%BB%E7%BB%9F%E7%9A%84%E7%A4%BA%E4%BE%8B%201.47.0%E6%98%AF%E6%89%80%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%E7%9A%84%E5%BD%93%E5%89%8D%E5%AE%89%E8%A3%85%E7%9A%84rsut%E7%9A%84%E7%89%88%E6%9C%AC%E5%8F%B7 "这是一个windows系统的示例 1.47.0是所展示图片的当前安装的rsut的版本号")
@@ -150,23 +151,25 @@ VS Code 功能非常强大，除了基本的 IDE 功能外，还能实现**远�
 打开终端，输入：
 
 ```rust
-cargo new --bin helloworld 
+cargo new --bin hello_world 
 ```
 
 显示：
 
 ```rust
-     Created binary (application) `helloworld` package
+     Created binary (application) `hello_world` package
 ```
 
 这样就创建好了一个新工程。这个新工程的目录组织结构是这样的：
 
 ```bash
-helloworld
+hello_world
     ├── Cargo.toml
     └── src
         └── main.rss
 ```
+
+![Bildschirmfoto 2023-10-26 um 02.56.22.png](./note1.assets/1698281890789-05ae81a1-668f-4b22-bff1-91a95f8e1d8f.png)
 
 第一层是一个 src 目录和一个 `Cargo.toml` 配置文件。src 是放置源代码的地方，而 `Cargo.toml` 是这个工程的配置文件，我们来看一下里面的内容。
 
@@ -181,7 +184,13 @@ edition = "2021"
 [dependencies]
 ```
 
-Cargo.toml 中包含 package 等基本信息，里面有名字、版本和采用的 Rust 版次。Rust 3 年发行一个版次，目前有 2015、2018 和 2021 版次，最新的是 2021 版次，也是我们这门课使用的版次。可以执行 `rustc -V` 来查看我们课程使用的 Rust 版本。
+Cargo.toml 中包含 package 等基本信息，里面有名字、版本和采用的 Rust 版次。Rust 3 年发行一个版次，目前有 2015、2018 和 2021 版次，最新的是 2021 版次，也是我们这门课使用的版次。
+
+
+
+### 在新建的项目内打开Terminal
+
+可以执行 `rustc -V` 来查看我们课程使用的 Rust 版本。
 
 ```rust
 rustc 1.69.0 (84c898d65 2023-04-16)
@@ -191,6 +200,10 @@ rustc 1.69.0 (84c898d65 2023-04-16)
 
 
 
-### 在新建的项目内打开Terminal
+### vs code 小技巧
 
-## ![Bildschirmfoto 2023-10-26 um 02.56.22.png](./note1.assets/1698281890789-05ae81a1-668f-4b22-bff1-91a95f8e1d8f.png)
+
+
+
+
+ 
