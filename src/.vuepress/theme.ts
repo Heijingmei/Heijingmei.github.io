@@ -106,8 +106,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/Tarot/intro.html": ["1234"],
+      "/zh/Tarot/intro.html": ["1234"],
     },
   },
 
