@@ -3,7 +3,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Home
+title: Blaue Hölle
 bgImage: /img/background1.png
 heroImage: /img/logo.png
 heroText: Blaue Hölle
