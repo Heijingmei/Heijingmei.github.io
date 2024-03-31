@@ -74,6 +74,3 @@ cd ***h **（打开上述文件 *h 代表重复的名字）
 ## 在新建的项目内打开Terminal
 
 ## ![Bildschirmfoto 2023-10-26 um 02.56.22.png](./note1.assets/1698281890789-05ae81a1-668f-4b22-bff1-91a95f8e1d8f.png)
-
-8.
-
