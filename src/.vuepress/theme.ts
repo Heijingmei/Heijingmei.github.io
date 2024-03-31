@@ -120,7 +120,11 @@ export default hopeTheme({
     // WARNING: This is a test server for demo only.
     // You should create and use your own comment service in production.
     catalog: {
-      exclude: [https://blauehoelle.com/zh/Tarot/],
+      exclude: [
+        "/Tarot/",
+        "/zh/Tarot/",
+        "/de/Tarot/",
+      ],
     },
 
      comment: {
