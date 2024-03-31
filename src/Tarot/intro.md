@@ -1,7 +1,6 @@
 ---
 title: 关于塔罗模块的说明
 date: 
-star: true
 author: Qingjing 青菁
 isOriginal: true
 category: 
@@ -11,7 +10,7 @@ tag:
     - healing
 icon: /img/crystal-ball.ico
 sticky: false
-star: false
+star: true
 article: true
 timeline: true
 image: false
