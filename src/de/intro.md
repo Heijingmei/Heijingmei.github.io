@@ -1,5 +1,6 @@
 ---
 icon: circle-info
+star: true
 ---
 
 # Vorstellung

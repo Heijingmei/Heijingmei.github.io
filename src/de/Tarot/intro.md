@@ -10,7 +10,7 @@ tag:
     - 
 icon: /img/crystal-ball.ico
 sticky: false
-star: false
+star: true
 article: true
 timeline: true
 image: false
