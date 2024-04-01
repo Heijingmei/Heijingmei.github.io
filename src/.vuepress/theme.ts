@@ -88,7 +88,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "by @黑静美 Lilya しずみ",
 
       displayFooter: true,
 
