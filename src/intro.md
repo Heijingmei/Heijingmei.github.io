@@ -11,10 +11,10 @@ The main members of the studio and thier business are:<br>
 
 Lilya (Web Design) <br>Qingjing (Healing Tarot Divination)<br>
 
-If you have any re or want to cooperate with us, please contact Miss Qingjing via WeChat: BH_Qingjing.<br>
+If you have any re or want to cooperate with us, please contact Miss Qingjing via WeChat: BH__Qingjing.<br>
 
 
 
 
 
-(Thanks for the original program by Mr. Hope)
+(Thanks for the original program by (Mr. Hope))
