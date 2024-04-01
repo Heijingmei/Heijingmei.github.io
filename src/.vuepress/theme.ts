@@ -118,9 +118,10 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/Tarot/intro.html": ["1234"],
-      "/zh/Tarot/intro.html": ["1234"],
-      "/de/Tarot/intro.html": ["1234"],
+      
+      "Qingjing/Tarot/intro.html": ["1234"],
+      "/zh/Qingjing/Tarot/intro.html": ["1234"],
+      "/de/Qingjing/Tarot/intro.html": ["1234"],
     },
   },
 
