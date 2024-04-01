@@ -136,10 +136,10 @@ export default hopeTheme({
     // You should create and use your own comment service in production.
     catalog: {
       exclude: [
-        "Heijingmei/",
+        "/Heijingmei/",
         "/zh/Heijingmei/",
-        "/de/Heijingmei/"
-        "Qingjing/Tarot/",
+        "/de/Heijingmei/",
+        "/Qingjing/Tarot/",
         "/zh/Qingjing/Tarot/",
         "/de/Qingjing/Tarot/",
         "Qingjing/",
