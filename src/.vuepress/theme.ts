@@ -64,7 +64,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "made by Lilya",
 
       displayFooter: true,
 
@@ -101,6 +101,18 @@ export default hopeTheme({
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
       },
+    },
+
+    "de": {
+      footer: "bearbeitet by Lilya",
+
+      displayFooter: true,
+
+      blog: {
+        description: "Eine stundierende. Manchmal Entspannend.",
+        intro: "/intro.html",
+      },
+
     },
   },
 
