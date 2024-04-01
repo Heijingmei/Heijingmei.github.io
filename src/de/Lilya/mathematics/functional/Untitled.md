@@ -4,7 +4,7 @@ title: Warten Sie bitte eine kurze Zeit! 敬请期待
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - math
+    - Mathe
     - functional
 tag:
     - analysis
