@@ -64,7 +64,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "made by Lilya",
+      footer: "made by Lilya 黑静美",
 
       displayFooter: true,
 
@@ -104,7 +104,7 @@ export default hopeTheme({
     },
 
     "de": {
-      footer: "bearbeitet by Lilya",
+      footer: "bearbeitet by Lilya 黑静美",
 
       displayFooter: true,
 
