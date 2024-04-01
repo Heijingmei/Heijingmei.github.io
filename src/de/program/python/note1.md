@@ -1,12 +1,12 @@
 ---
 title: Please wait for some time! 敬请期待
-date: 
+#date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
     - 
 tag:
-    - 
+    - python
     - 
 icon: /img/Python.ico
 sticky: false
@@ -25,9 +25,7 @@ backToTop: true
 
 # Please wait for some time! 敬请期待
 
-
-
-Please wait for some time! 敬请期待
+敬请期待
 
 Please wait for some time.This module is coming soon. 
 

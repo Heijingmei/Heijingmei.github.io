@@ -1,14 +1,14 @@
 ---
 title: Please wait for some time! 敬请期待
-date: 
+#date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - math
+    - algebra
 tag:
-    - 
-    - 
-icon: 
+    - LA
+    - group theory
 sticky: false
 star: false
 article: true
@@ -26,9 +26,7 @@ backToTop: true
 
 # Please wait for some time! 敬请期待
 
-
-
-敬请期待
+ 敬请期待
 
 Please wait for some time.This module is coming soon. 
 

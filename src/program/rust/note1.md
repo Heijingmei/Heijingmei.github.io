@@ -24,8 +24,6 @@ backToTop: true
 
 ---
 
-##
-
 ## 1. Install
 
 When I Use Mac OS :

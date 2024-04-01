@@ -1,6 +1,6 @@
 ---
-title: 01-Einführung zur C Sprache
-date: 
+title: 01 C program languege
+#date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
@@ -23,7 +23,7 @@ editLink: false
 backToTop: true
 ---
 
-# 1.Einführung zur C Sprache
+# 1. C program languege
 
-Der Artikel auf Deutsch wird noch nicht bearbeitet. Sie können zuerst die chinesische Auflage lesen.
+English version is in production. Please pay some patience. You can read the Chinese version first.
 
