@@ -25,5 +25,6 @@ backToTop: true
 
 # 1. C program languege
 
-English version is in production. Please pay some patience. You can read the Chinese version first.
+**C** is a general-purpose computer [programming language](https://en.wikipedia.org/wiki/Programming_language). It has found lasting use in [operating systems](https://en.wikipedia.org/wiki/Operating_system), [device drivers](https://en.wikipedia.org/wiki/Device_drivers), and [application software](https://en.wikipedia.org/wiki/Application_software).
 
+A successor to the programming language [B](https://en.wikipedia.org/wiki/B_(programming_language)), C was originally developed at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) between 1972 and 1973 to construct utilities running on [Unix](https://en.wikipedia.org/wiki/Unix). 
