@@ -1,6 +1,6 @@
 ---
 title: 01-rust01
-date: 
+#date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 

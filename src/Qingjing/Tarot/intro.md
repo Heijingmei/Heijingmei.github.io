@@ -1,5 +1,5 @@
 ---
-title: 关于塔罗模块的说明
+title: Introduce about my healing Tarot
 author: Qingjing 青菁
 isOriginal: true
 category: 
@@ -27,7 +27,7 @@ backToTop: true
 
 # Please wait for some time! 敬请期待
 
-Please wait for some time! 敬请期待
+敬请期待
 
 Please wait for some time.This module is coming soon. 
 
