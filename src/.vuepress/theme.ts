@@ -110,7 +110,7 @@ export default hopeTheme({
 
       blog: {
         description: "Eine stundierende. Manchmal Entspannend.",
-        intro: "/intro.html",
+        intro: "/de/intro.html",
       },
 
     },
