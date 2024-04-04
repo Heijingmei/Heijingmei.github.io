@@ -1,6 +1,6 @@
 ---
 title: 网站内容加密
-#date：
+
 icon: m
 ---
 
@@ -18,14 +18,19 @@ icon: m
 ssh-keygen -t ed25519 -c "id_github_deploy_to_blog"
 ```
 
-![image-20240404170334364](./note2.assets/image-20240404170334364.png)
+![image-20240404173020972](./note2.assets/image-20240404173020972.png)
 
 ### 2.配置生成新的 `SSH KEY`
 
 注：每个`private_key`只能用一次，需要生成多个ssh Key
 
-| Key            | value |
-| -------------- | ----- |
-| id_ed25519.pub |       |
-| id_ed25519     |       |
+| Key            | value           | 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 |
+| -------------- | --------------- | -------------------------------- |
+| id_ed25519.pub | Git_Hub公开部分 |                                  |
+| id_ed25519     | Git_Hub私有仓库 |                                  |
 
+![image-20240404172850054](./note2.assets/image-20240404172850054.png)
+
+![](./note2.assets/image-20240404171854136.png)
+
+![image-20240404173439745](./note2.assets/image-20240404173439745.png)
