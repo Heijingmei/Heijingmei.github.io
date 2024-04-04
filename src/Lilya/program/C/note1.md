@@ -1,5 +1,5 @@
 ---
-title: 01 C program languege
+title: 01 C Programmiersprache
 date: 
 author: Lilya 黑静美
 isOriginal: true
@@ -23,8 +23,7 @@ editLink: false
 backToTop: true
 ---
 
-# 1. C program languege
+## 1. Was ist C Programmiersprache？
 
-**C** is a general-purpose computer [programming language](https://en.wikipedia.org/wiki/Programming_language). It has found lasting use in [operating systems](https://en.wikipedia.org/wiki/Operating_system), [device drivers](https://en.wikipedia.org/wiki/Device_drivers), and [application software](https://en.wikipedia.org/wiki/Application_software).
-
-A successor to the programming language [B](https://en.wikipedia.org/wiki/B_(programming_language)), C was originally developed at [Bell Labs](https://en.wikipedia.org/wiki/Bell_Labs) by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) between 1972 and 1973 to construct utilities running on [Unix](https://en.wikipedia.org/wiki/Unix). 
+**C** ist eine [imperative](https://de.wikipedia.org/wiki/Imperative_Programmierung) und [prozedurale](https://de.wikipedia.org/wiki/Prozedurale_Programmierung) [Programmiersprache](https://de.wikipedia.org/wiki/Programmiersprache). Die Anwendungsbereiche von C sind sehr verschieden. Sie wird zur [System-](https://de.wikipedia.org/wiki/Systemprogrammierung) und [Anwendungsprogrammierung](https://de.wikipedia.org/wiki/Softwaretechnik) eingesetzt. Die grundlegenden [Programme](https://de.wikipedia.org/wiki/Computerprogramm) aller [Unix](https://de.wikipedia.org/wiki/Unix)-Systeme und die Systemkernelvieler [Betriebssysteme](https://de.wikipedia.org/wiki/Betriebssystem) sind in C programmiert. 
+Der Informatiker [Dennis Ritchie](https://de.wikipedia.org/wiki/Dennis_Ritchie) entwickelte `C`-Sprache in den frühen 1970er Jahren an den [Bell Laboratories](https://de.wikipedia.org/wiki/Bell_Laboratories).

@@ -1,10 +1,10 @@
 ---
-title: Warten Sie bitte eine kurze Zeit! 敬请期待
+title: Please wait for some time! 敬请期待
 date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - Mathe
+    - math
     - algebra
 tag:
     - LA
@@ -24,7 +24,7 @@ backToTop: true
 
 ---
 
-# Warten Sie bitte eine kurze Zeit! 敬请期待
+# Please wait for some time! 敬请期待
 
  敬请期待
 

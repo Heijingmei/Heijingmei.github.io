@@ -1,5 +1,5 @@
 ---
-title: practice
+title: Übungen
 date: 
 author: Lilya 黑静美
 isOriginal: true
@@ -23,7 +23,7 @@ editLink: false
 backToTop: true
 ---
 
-# Please wait for some time! 敬请期待
+# Warten Sie bitte eine kurze Zeit! 敬请期待
 
 敬请期待
 
