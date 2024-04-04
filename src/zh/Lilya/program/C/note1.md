@@ -27,6 +27,7 @@ backToTop: true
 
 **C语言**（英語：**C Language**）是一种通用的、**[过程式](https://zh.wikipedia.org/wiki/过程式编程)**[**编程**語言](https://zh.wikipedia.org/wiki/程式語言)，支持[结构化编程](https://zh.wikipedia.org/wiki/结构化编程)、词法作用域和**<u>递归</u>**，使用静态类型系统，并且广泛用于[系统软件](https://zh.wikipedia.org/wiki/系统软件)与[应用软件](https://zh.wikipedia.org/wiki/应用软件)的开发。
 C语言于1969年至1973年间，为了移植与开发[UNIX](https://z.wikipedia.org/wiki/UNIX)[作业系统](https://zh.wikipedia.org/wiki/作業系統)，由[丹尼斯·里奇](https://zh.wikipedia.org/wiki/丹尼斯·里奇)与[肯·汤普逊](https://zh.wikipedia.org/wiki/肯·汤普逊)，以[B语言](https://zh.wikipedia.org/wiki/B语言)为基础，在[贝尔实验室](https://zh.wikipedia.org/wiki/贝尔实验室)设计、开发出来。
+(返回🔙 [rust](../rust/note1))
 
 # Hallo, world!
 
