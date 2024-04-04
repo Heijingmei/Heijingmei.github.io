@@ -1,5 +1,6 @@
 ---
 icon: circle-info
+sticky: true
 star: true
 ---
 
