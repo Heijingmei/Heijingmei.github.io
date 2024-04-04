@@ -25,11 +25,13 @@ backToTop: true
 
 
 
-A conditional statement is used to perform different computations based on the result of a condition. The key leads to different logic paths based on the condition (true/false).
+A conditional statement is used to perform different computations based on the result of a condition. The key leads to different logic paths based on the condition (`true`/`false`).
 
-## if Statement
+## if Conditional Statement
 
-The if statement, known as a conditional control statement, executes a statement when an expression is true. Because of this, if is referred to as a decision-making structure. Its syntax is:
+### if Statement
+
+The `if` statement, referred to as a conditional control statement, executes a statement when an expression is `true`. It's known as a decision-making structure. Its form is:
 
 ```c
 if (expression) {
@@ -38,11 +40,11 @@ if (expression) {
 }
 ```
 
-The expression can be true or false. The statement to be executed can be a single statement terminated by a semicolon or a code block enclosed in curly braces {}.
+The `expression` can be `true` or `false`. The statement to be executed can either be a single statement terminated by a semicolon or a code block enclosed in curly braces `{}`.
 
 ```c
 #include <stdio.h>
-int main() {
+int main() { 
     int score = 89;
     
     if (score > 75)
@@ -52,21 +54,15 @@ int main() {
 }
 ```
 
-In the above statement, we check if the score is greater than 75. If true, it prints a message.
+In the above statement, we check if the score is greater than 75. If true, it prints(`printf`) a message.
 
-Fill in the blank:
 
-```c
-if (a > b) {
-    printf("hello");
-}
-```
 
-## if-else Statement
+### if-else Statement
 
-The if-else statement is used when you want to execute one block of code when a condition is true and another block when it's false.
+The `if-else` statement is utilized when you want to execute one block of code when a condition is `true` and another block when it's `false`.
 
-Syntax:
+**Syntax**:
 
 ```c
 if (condition) {
@@ -88,10 +84,6 @@ if (score >= 90) {
 ```
 
 If the score is 90 or higher, it prints "Top 10%." Otherwise, it prints "Less than 90." 
-
-
-
-
 
 
 

@@ -13,4 +13,5 @@ star: true
 
 如有需求,请联系青菁小姐姐的微信: BH__Qingjing
 
-(感谢 (@Mr.Hope大佬)[https://theme-hope.vuejs.press/guide/blog/home.html] 提供的开源模版,我的网页是在他的模版上进行修改的)
+(感谢 [@Mr.Hope大佬](https://theme-hope.vuejs.press/zh/guide/blog/home.html)提供的开源模版,我的网页是在他的模版上进行修改的)
+

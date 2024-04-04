@@ -128,15 +128,6 @@ Top 10%.
 
 这表示如果分数 `score` 是 90 或更高,程序将打印 "Top 10%.".如果 `score` 小于 90,它将打印 "Less than 90.".
 
-```c
-int x = 3; 
-if( x > 5) {
-    printf("x is greater than 5 \n");
-}else{
-    printf("x is 5 or less\n");
-}
-```
-
 
 
 ## if  -  else if  -  else 语句(多个条件)
@@ -158,14 +149,13 @@ if(condition1){
 例如:
 
 ```
-int x = 5;
-if( x > 10) {
-    printf("x is greater than 10 \n");
-}else if(x > 5) {
-    printf("x is greater than 5 but less than or equal to 10. \n");
-}else{
-    printf("x is 5 or less\n");
-}
+if( score > 90) {
+    printf(" is greater than 90 \n");
+    }else if(score > 80) {  //todo 因为if存在,所以实际上是 80 < score <= 90
+        printf("The score is greater than 80 but less than or equal to 90. \n");
+    }else{
+        printf("The score is 80 or less\n");
+    }
 ```
 
 在编写一个 if-else if 语句时,要仔细考虑其中的逻辑.程序逐个检测每个分支,并执行第一个表达式为真的语句,其余的表达式都不会被测试.尽管缩进不会影响编译后的代码,但当 else 语句对齐时,if-else if 的逻辑更易阅读理解.
@@ -292,17 +282,11 @@ if (x > 10) {
 }
 ```
 
-```c
-if (profit > 1000)
-  if (clients > 15)
-    bonus = 100;
-  else
-    bonus = 25;
-```
 
-补全嵌套if语句中缺失的部分,并打印相应的信息.
 
 **填空**
+
+补全嵌套if语句中缺失的部分,并打印相应的信息.
 
 ```c
 int x = 37;
@@ -314,6 +298,8 @@ if (x > 22) {
 ```
 
 `if` `printf`
+
+
 
 ## 条件表达式「三元操作符」
 
@@ -365,60 +351,5 @@ int main (){
         max = y;
     }
 }
-```
-
-## 练习
-
-### Question 连续整数序列判断
-
-**描述**:给定三个整数,编写一个程序来检查它们是否形成一个连续的整数序列.
-
-**示例输入**:
-
-```c
-3 2 4
-```
-
-**示例输出**:
-
-```c
-Yes
-```
-
-### Question 奇偶性和正负性组合判断
-
-描述:输入两个整数,编写一个程序来判断它们的奇偶性和正负性,并输出以下其中一个结果:
-
--  Both numbers are positive and even. 
--  Both numbers are positive and odd. 
--  Both numbers are negative and even. 
--  Both numbers are negative and odd. 
--  One number is positive and even, while the other is positive and odd. 
-
-示例输入:
-
-```c
-4 -3
-```
-
-示例输出:
-
-```c
-One number is positive and even, while the other is negative and odd.
-```
-
-### Question  日期有效性检查
-
-描述:输入一个日期(由日、月和年组成),检查其是否是有效的.考虑平年和闰年.请注意,你只需要使用 if 语句,并且不需要使用其他知识点.
-示例输入:
-
-```c
-29 2 2023
-```
-
-示例输出:
-
-```c
-Invalid date
 ```
 

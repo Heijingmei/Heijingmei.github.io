@@ -15,6 +15,4 @@ If you have any re or want to cooperate with us, please contact Miss Qingjing vi
 
 
 
-
-
-(Thanks for the original program by (Mr. Hope))
+(Thanks for providing the open-source by [Mr. Hope](https://theme-hope.vuejs.press/guide/blog/home.html). My website based on his work.  )

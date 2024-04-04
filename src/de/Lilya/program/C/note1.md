@@ -1,5 +1,5 @@
 ---
-title: 01 C program languege
+title: 01 C Programmiersprache
 #date: 
 author: Lilya 黑静美
 isOriginal: true
@@ -23,7 +23,7 @@ editLink: false
 backToTop: true
 ---
 
-# 1. C program languege
+## 1. Was ist C Programmiersprache？
 
-English version is in production. Please pay some patience. You can read the Chinese version first.
-
+**C** ist eine [imperative](https://de.wikipedia.org/wiki/Imperative_Programmierung) und [prozedurale](https://de.wikipedia.org/wiki/Prozedurale_Programmierung) [Programmiersprache](https://de.wikipedia.org/wiki/Programmiersprache). Die Anwendungsbereiche von C sind sehr verschieden. Sie wird zur [System-](https://de.wikipedia.org/wiki/Systemprogrammierung) und [Anwendungsprogrammierung](https://de.wikipedia.org/wiki/Softwaretechnik) eingesetzt. Die grundlegenden [Programme](https://de.wikipedia.org/wiki/Computerprogramm) aller [Unix](https://de.wikipedia.org/wiki/Unix)-Systeme und die Systemkernelvieler [Betriebssysteme](https://de.wikipedia.org/wiki/Betriebssystem) sind in C programmiert. 
+Der Informatiker [Dennis Ritchie](https://de.wikipedia.org/wiki/Dennis_Ritchie) entwickelte `C`-Sprache in den frühen 1970er Jahren an den [Bell Laboratories](https://de.wikipedia.org/wiki/Bell_Laboratories).

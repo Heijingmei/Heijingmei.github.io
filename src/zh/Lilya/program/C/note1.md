@@ -25,8 +25,7 @@ backToTop: true
 
 # What is C programm languege?
 
-**C**是一种通用的、[Programming language theory](https://en.wikipedia.org/wiki/Programming_language_theory)，支持**<u>结构化编程</u>**、词法作用域和**<u>递归</u>**，使用静态类型系统，并且曾广泛用于[系统软件](https://en.wikipedia.org/wiki/系统软件)与[应用软件](https://zh.wikipedia.org/wiki/应用软件)的开发。
-
+**C语言**（英語：**C Language**）是一种通用的、**[过程式](https://zh.wikipedia.org/wiki/过程式编程)**[**编程**語言](https://zh.wikipedia.org/wiki/程式語言)，支持[结构化编程](https://zh.wikipedia.org/wiki/结构化编程)、词法作用域和**<u>递归</u>**，使用静态类型系统，并且广泛用于[系统软件](https://zh.wikipedia.org/wiki/系统软件)与[应用软件](https://zh.wikipedia.org/wiki/应用软件)的开发。
 C语言于1969年至1973年间，为了移植与开发[UNIX](https://z.wikipedia.org/wiki/UNIX)[作业系统](https://zh.wikipedia.org/wiki/作業系統)，由[丹尼斯·里奇](https://zh.wikipedia.org/wiki/丹尼斯·里奇)与[肯·汤普逊](https://zh.wikipedia.org/wiki/肯·汤普逊)，以[B语言](https://zh.wikipedia.org/wiki/B语言)为基础，在[贝尔实验室](https://zh.wikipedia.org/wiki/贝尔实验室)设计、开发出来。
 
 # Hallo, world!
@@ -46,8 +45,10 @@ int main() {
 
 
 ```
-## printf()
-# 数据类型 Data type
+### printf()
+
+## 数据类型 Data type
+
 每种类型所需的存储大小因平台而异
 C语言有一个内置的sizeof操作符，可以返回特定的数据类型的内存占用大小。例如：
 
@@ -60,9 +61,9 @@ int main() {
      *TODO：c语言有一个内置的sizeof，可以返回特定的数据类型的内存占用内存大小
     */
     printf("int: %ld \n",sizeof(int));
-    printf("int: %ld \n",sizeof(float));
-    printf("int: %ld \n",sizeof(double));
-    printf("int: %ld \n",sizeof(char));
+    printf("float: %ld \n",sizeof(float));
+    printf("doucle: %ld \n",sizeof(double));
+    printf("char: %ld \n",sizeof(char));
     return 0; //该语句则终止了 main() 函数，并返回数值0。数字0通常意味着我们的程序已经成功执行。（0 bug）任何其他数字都表示程序失败了。*/
 
     //TODO: syntax 语法
@@ -74,15 +75,21 @@ int main() {
 
 A. int, double, char, boolean
 B. int, bool, string
-C. int, float, double, char
+C. int, float, double, char☑️
 D. int, float, string, char
-## int：整数
-## float：浮点数
-## double：双精度浮点数
-## char：单个字符
 
 
-# 变量 Variable
+
+### int：整数
+
+### float：浮点数
+
+### double：双精度浮点数
+
+### char：单个字符
+
+## 变量 Variable
+
 变量是内存中某块值的名称。
 变量名（也称为标识符）必须以字母或下划线_开头，可以
 
@@ -91,7 +98,8 @@ D. int, float, string, char
 由字母、数字和下划线_字符组成。
 不同语言中，变量的命名规则各不相同，但是使用小写字母和下划线来分隔单词是很常见的（snake_case）。
 变量在使用前也必须声明为一种数据类型。
-## 命名规则
+### 命名规则
+
 C 语言中的变量命名遵循一系列规则和约定。以下是主要的命名规则：
 
 1.  **首字符**：变量名必须以字母（`a-z` 或 `A-Z`）或下划线（`_`）开始。 
@@ -106,8 +114,10 @@ C 语言中的变量命名遵循一系列规则和约定。以下是主要的命
    - **常量命名**：有些程序员选择使用全部大写字母来命名常量，例如，`PI` 或 `MAX_LENGTH`。
 8.  **避免使用特定前缀**：在某些编程约定中，以下划线开始的变量名（如 `_variable`）可能有特定的含义或用途。为了避免与库或编译器特定命名冲突，最好避免使用这样的前缀，除非你知道它的确切含义和用途。 
 9.  **全局变量**：有些编程约定建议为全局变量使用特定的前缀，以便更容易地区分它们和局部变量。 
-## 示例
-### int & float：整数和浮点数
+### 示例
+
+#### int & float：整数和浮点数
+
 ```c
 int main() {
     //声明的数据类型
@@ -159,7 +169,8 @@ int main() {
 }
 
 ```
-### char
+#### char
+
 ```c
 int main() {
     char ch = 'w';
@@ -167,12 +178,14 @@ int main() {
     return 0;
 }
 ```
-# 常量  Constant
+## 常量  Constant
 
 一个常量存储了一个不能改变值的变量(但必须初始化变量)。
 通过使用有意义的常量名，代码会更易阅读和理解。 为了区分常量和变量，一个常见的做法是使用大写的标识符来声明常量。
 定义常量的一种方法是在变量声明前使用 const 关键字。
-## 示例：const double
+
+### 示例：const double
+
 ```c
 int main() {
     //const声明常量并初始化值
@@ -186,15 +199,21 @@ int main() {
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1697886032745-a6a9c745-d596-4a42-9a2c-c909047449a8.png#averageHue=%232f2e2e&clientId=u5dabb720-b140-4&from=paste&height=171&id=u65949d67&originHeight=214&originWidth=628&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=19402&status=done&style=none&taskId=ub3f7b669-ac35-4735-9c28-c795a77a114&title=&width=502.4)
 
 常量在声明时**必须用一个值进行初始化**，因为常量在创建出来之后，不能被修改。所以，一开始如果不赋值的话，在后面你就无法赋值了。
-# define
-## const 和 define 在 C 语言中都可以用来定义常量，但是它们的工作方式有所不同，并且各有各的用途。以下是它们之间的一些主要区别：
-###  预处理器和编译器：
+## define
+
+### const 和 define 在 C 语言中都可以用来定义常量，但是它们的工作方式有所不同，并且各有各的用途。以下是它们之间的一些主要区别：
+
+#### 预处理器和编译器：
+
 define 是预处理器指令，它在编译过程的预处理阶段进行替换，而 const 是编译器指令，它在编译阶段进行处理。 
-###  作用域：
+####  作用域：
+
 define 不考虑作用域，只要在定义之后，都可以使用。而 const 具有作用域，只在定义它的作用域内有效。 
-###  内存占用：
+####  内存占用：
+
 define 定义的常量不会占用内存，因为它们在预处理阶段就被替换了。但是 const 定义的常量会占用内存，因为它们在运行时还存在。 
-###  类型和检查：
+####  类型和检查：
+
 define 定义的常量没有类型，它只是简单的文本替换，编译器无法进行类型检查。但 const 定义的常量有类型，编译器会进行类型检查。 
 
 现在我们来看一些代码示例：
@@ -229,12 +248,15 @@ int main() {
     return 0;
 }
 ```
-:::info
+::: info
+
 在这个代码中，pi 是一个 const 常量，也被用来计算面积。注意，pi 有一个类型（double/float），并且只在 main 函数的作用域内有效。
 :::
 
+
+
 在编译之前，预处理程序将代码中的每个宏标识符替换为指令中的相应值。在这种情况下，每个出现的 PI 都被替换为 3.14。 发送给编译器的最终代码将已经有了常量值。const和#define的区别在于，前者使用内存进行存储，而后者不使用。
-## Question 1 在具体使用的时候我们应该如何选择？
+### Question 1 在具体使用的时候我们应该如何选择？
 
 选择 const 或者 define 的决定依赖于具体的应用场景和你的需求。以下是一些考虑的因素：
 
