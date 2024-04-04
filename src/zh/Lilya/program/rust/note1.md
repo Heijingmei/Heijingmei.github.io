@@ -24,13 +24,29 @@ backToTop: true
 
 ---
 
+## -1. rust介绍
+
+
+Rust 是一种通用的编程语言，但是它更善于以下场景:
+
+- 需要运行时的速度
+- 需要内存安全
+- 更好的利用多处理器
+
+
+
+它可以用来替换 [C](../C/note1.md)/[C++](https://zh.wikipedia.org/wiki/C%2B%2B)，Rust 和它们具有同样的性能，但是很多常见的 bug 在编译时就可以被消灭。
+
+
+
 ## 0. 安装
 
 如果你暂时不想在本地安装，或者本地安装有问题，对于我们初学者来说，也有一个方便、快捷的方式，就是 Rust 语言官方提供的一个网页端的 [Rust 试验场open in new window](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)，可以让你快速体验。
 
+网页 Playground 非常方便，可以用来快速验证一些代码片段，也便于将代码分享给别人。如果你的电脑本地没有安装 Rust 套件，可以临时使用这个 Playground 学习。
 
 
-这个网页 Playground 非常方便，可以用来快速验证一些代码片段，也便于将代码分享给别人。如果你的电脑本地没有安装 Rust 套件，可以临时使用这个 Playground 学习。
+
 在`Mac OS`、 `Linux`、windows的 `WSL` 中开发：
 
 ```bash
