@@ -1,6 +1,6 @@
 ---
 title: 关于塔罗模块的说明
-date: 
+ 
 author: Qingjing 青菁
 isOriginal: true
 category: 

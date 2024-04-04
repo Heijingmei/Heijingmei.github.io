@@ -1,6 +1,6 @@
 ---
 title: 3-switch 
-date: 
+ 
 author: Lilya 黑静美
 isOriginal: true
 category: 

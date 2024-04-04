@@ -1,6 +1,6 @@
 ---
 title: Einführung des Moduls Tarot
-date: 
+ 
 author: Qingjing 青菁
 isOriginal: true
 category: 
