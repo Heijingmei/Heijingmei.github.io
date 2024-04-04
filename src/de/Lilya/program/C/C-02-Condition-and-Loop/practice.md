@@ -1,6 +1,6 @@
 ---
 title: Übungen
-#date: 
+date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 

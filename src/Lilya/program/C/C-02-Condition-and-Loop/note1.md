@@ -1,6 +1,6 @@
 ---
 title: 2-1 if Conditional Statement
-#date: 
+date: 
 author: Lilya 黑静美
 isOriginal: true
 category: 
