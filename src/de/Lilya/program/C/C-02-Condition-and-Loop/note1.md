@@ -1,14 +1,14 @@
 ---
 title: 2-1 if Conditional Statement
- 
+
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - Programmierung
 tag:
-    - 
-    - 
-icon: 
+    - C
+    - C#
+icon: c
 sticky: false
 star: false
 article: true

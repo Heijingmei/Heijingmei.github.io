@@ -1,13 +1,10 @@
 ---
-title: Bitte warten Sie eine kurze Zeit! 敬请期待
- 
+title: logische Syntax
+
 author: Lilya 黑静美
 isOriginal: true
-category: 
-    - 
-tag:
-    - 
-    - 
+category: false
+tag:false 
 icon: 
 sticky: false
 star: false
