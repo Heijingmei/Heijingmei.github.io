@@ -35,7 +35,7 @@ export default hopeTheme({
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
       // Gitlab: "https://example.com",
-      //Gmail: "bh.qing.jing@gmail.com",
+      // Gmail: "bh.qing.jing@gmail.com", //这行没写完
       // Instagram: "https://example.com",
       // Lark: "https://example.com",
       // Lines: "https://example.com",
@@ -73,9 +73,9 @@ export default hopeTheme({
         intro: "/intro.html",
       },
 
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
+     // metaLocales: {
+     //   editLink: "Edit this page on GitHub",
+     // },
     },
 
     /**
@@ -98,9 +98,9 @@ export default hopeTheme({
       },
 
       // page meta
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
+      //metaLocales: {
+      //  editLink: "在 GitHub 上编辑此页",
+      //},
     },
 
     //为什么德语版不显示呢
