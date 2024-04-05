@@ -6,11 +6,6 @@ import { MR_HOPE_AVATAR } from "./logo.js";
 export default hopeTheme({
   hostname: "https://github.com/Heijingmei/Heijingmei.github.io",
 
-  author: {
-    name: "黑静美",
-    url: "https://blauehoelle.com",
-  },
-
   iconAssets: "fontawesome-with-brands",
 
   logo: "/img/logo.png",
@@ -64,6 +59,11 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
+      author: {
+        name: "Lilya 黑静美",
+        url: "https://blauehoelle.com",
+      },
+    
       footer: "made by Lilya 黑静美",
 
       displayFooter: true,
@@ -87,6 +87,12 @@ export default hopeTheme({
 
       // sidebar
       sidebar: zhSidebar,
+    
+      author: {
+        name: "黑静美",
+        url: "https://blauehoelle.com",
+      },
+      
 
       footer: "by @黑静美 しずみ Lilya",
 
