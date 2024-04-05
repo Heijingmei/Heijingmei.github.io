@@ -39,7 +39,7 @@ switch(expression){
     case val2:
         statements
         break; 
-    default:
+    default:         //类似于if中的else
         statements
 }
 ```
@@ -61,7 +61,9 @@ switch 可以有多个 case。
 > ⚠️注意
 > 为什么需要break？——如果没有break， 则会在匹配之后执行后续的代码。代码示例如下：
 
-![image.png](./note3.assets/1701603113235-0a2f85c5-4337-421c-acae-c91a40bd7805.png)![image.png](./note3.assets/1701603149535-4c7ac571-7a1a-412f-b805-878ccad77e4b.png)
+![image.png](./note3.assets/1701603113235-0a2f85c5-4337-421c-acae-c91a40bd7805.png)
+
+![image-20240405215040893](./note3.assets/image-20240405215040893.png)
 
 如果没有 break 语句，程序的执行就会落到下一个 case 语句上。当多个 case 会执行相同逻辑，这一点很有用。考虑下面的 switch 语句：
 以这种方式构建 switch 语句时，必须谨慎行事。之后的修改可能会导致意外的结果。
