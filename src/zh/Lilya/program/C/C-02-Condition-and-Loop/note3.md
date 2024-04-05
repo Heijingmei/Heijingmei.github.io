@@ -45,14 +45,13 @@ switch(expression){
 ```
 
 
-> 
-
-
 > 哪个选项是 switch 开关语句的正确语法？
 >
 > - [ ] A. switch test;
 > - [ ] B. SWITCH test { }
 > - [x] C. switch (test) { }
+
+
 
 switch 可以有多个 case。
 可选的默认 default 在没有其他匹配的情况下被执行。
