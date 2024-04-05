@@ -1,13 +1,13 @@
 ---
-title: Please wait for some time! 敬请期待!
- 
+title: BPlease wait for some time! 敬请期待!
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - 
+    - math
+    - functional
 tag:
-    - 
-    - 
+    - analysis
+    - analysis about real
 icon: 
 sticky: false
 star: false
@@ -22,6 +22,8 @@ lastUpdated: true
 editLink: false
 backToTop: true
 ---
+
+
 
 # Please wait for some time! 敬请期待!
 

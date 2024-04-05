@@ -23,7 +23,7 @@ editLink: false
 backToTop: true
 ---
 
-# Warten Sie bitte eine kurze Zeit! 敬请期待
+# Please wait for some time! 敬请期待!
 
 敬请期待
 

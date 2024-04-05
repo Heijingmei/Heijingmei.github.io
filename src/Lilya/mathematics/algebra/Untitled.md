@@ -1,5 +1,5 @@
 ---
-title: Warten Sie bitte eine kurze Zeit! 敬请期待
+title: Please wait for some time! 敬请期待!
  
 author: Lilya 黑静美
 isOriginal: true
