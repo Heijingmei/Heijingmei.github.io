@@ -209,14 +209,33 @@ ctrl + i
 ###### `<>`和 `</>`构成的一类
 
 ```python
-**<span style="color: orange">这句话的颜色会改变</span>**
+**<span style="color: orange">这句话的颜色会改变为橙色</span>**
 ```
 
-**<span style="color: orange">这句话的颜色会改变</span>**
+**<span style="color: orange">这句话的颜色会改变为橙色</span>**
 
 ---
 
 变为不常见颜色
+
+```
+<span style="color: grey">这句话的颜色会改变为一种灰色</span>
+<span style="color: #808080">按照代码值，这两种颜色是一样的</span>
+
+
+<span style="color: #ABABAB">这句话的颜色会改变为一种不常见的灰色</span>
+<span style="color: #BFBFBF">这句话的颜色会改变为另一种不常见的灰色</span>
+```
+
+<span style="color: grey">这句话的颜色会改变为一种灰色</span>
+
+<span style="color: #808080">按照代码值，这两种颜色是一样的</span>
+
+
+
+<span style="color: #ABABAB">这句话的颜色会改变为一种不常见的灰色</span>
+
+<span style="color: #BFBFBF">这句话的颜色会改变为另一种不常见的灰色</span>
 
 ### 8.3. 其他文本效果
 
