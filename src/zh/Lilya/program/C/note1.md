@@ -208,7 +208,7 @@ int main() {
 }
 ```
 
-![image(../../../../../../../Dokument_keinSyn/program_language/网站备份/note1.assets/image(2).png)](./note1.assets/image(2).png)
+![image](./note1.assets/image(2).png)
 
 常量在声明时**必须用一个值进行初始化**，因为常量在创建出来之后，不能被修改。所以，一开始如果不赋值的话，在后面你就无法赋值了。
 
