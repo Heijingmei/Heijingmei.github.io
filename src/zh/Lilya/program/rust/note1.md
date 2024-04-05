@@ -9,7 +9,7 @@ tag:
     - rust
     -
 icon: /img/Rust.ico
-sticky: true 
+sticky: false
 star: false
 article: true
 timeline: true
