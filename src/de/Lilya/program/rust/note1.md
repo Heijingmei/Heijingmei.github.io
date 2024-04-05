@@ -8,8 +8,8 @@ tag:
     - rust
     - Syntax
 icon: /img/Rust.ico
-sticky: true
-star: false
+sticky: false
+star: true
 article: true
 timeline: true
 image: false

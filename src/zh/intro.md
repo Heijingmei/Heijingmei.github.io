@@ -1,6 +1,7 @@
 ---
 icon: circle-info
 star: true
+sticky: true
 ---
 
 # 自我介绍
