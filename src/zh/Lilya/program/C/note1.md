@@ -589,7 +589,7 @@ int main() {
 
 #### `scanf()` 扫描符合格式指定符的输入。printf( )
 
-**例如:**
+**例如:** 
 
 ```c
 #include <stdio.h>
