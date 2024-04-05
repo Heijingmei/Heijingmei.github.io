@@ -73,9 +73,9 @@ export default hopeTheme({
         intro: "/intro.html",
       },
 
-     // metaLocales: {
-     //   editLink: "Edit this page on GitHub",
-     // },
+      metaLocales: {
+        editLink: "Edit this page on GitHub",
+      },
     },
 
     /**
@@ -97,7 +97,7 @@ export default hopeTheme({
         intro: "/zh/intro.html",
       },
 
-      // page meta
+      // page meta  为什么这个去掉了还有呢
       //metaLocales: {
       //  editLink: "在 GitHub 上编辑此页",
       //},
