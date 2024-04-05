@@ -1,6 +1,8 @@
 ---
 title: Bitte warten Sie eine kurze Zeit! 敬请期待
-author: Lilya 黑静美
+author: 
+    - Lilya 黑静美
+    - Qingjing 青菁
 isOriginal: true
 category: 
     - math
