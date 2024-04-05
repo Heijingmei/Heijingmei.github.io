@@ -238,9 +238,9 @@ Die Änderung der Schriftfarbe erfolgt ebenfalls
 
 <span style="color: #BFBFBF">Dieser Satz wird in einer anderen weniger üblichen Graufarbe gefärbt</span>
 
-### 8.3. die andere Texteffekte
+### 8.3. die andere Texteffekte (ohne Plugins)
 
-### Box
+#### Box
 
 ```markdown
 `Text, den Sie in die Box einfügen möchten`
@@ -248,7 +248,7 @@ Die Änderung der Schriftfarbe erfolgt ebenfalls
 
 `Text, den Sie in die Box einfügen möchten`
 
-### Senkrechter Strich
+#### Senkrechter Strich
 
 ```markdown
 > 
@@ -256,7 +256,7 @@ Die Änderung der Schriftfarbe erfolgt ebenfalls
 
 > 
 
-### Check-Box
+#### Check-Box
 
 ```markdown
 - [ ]
@@ -276,6 +276,8 @@ Wenn Sie `Enter`(`return`) drücken, sieht es so aus:
 ```markdown
 Strg + /
 ```
+
+
 
 ## 10. Einige Effekte `mit Plugins`
 
