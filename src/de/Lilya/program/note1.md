@@ -6,7 +6,6 @@ category:
 tag:
     - Syntax
     - markdown
-icon: m
 ---
 
 # Markdown-Syntax
