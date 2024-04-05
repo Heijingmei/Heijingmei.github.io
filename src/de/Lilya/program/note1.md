@@ -163,15 +163,17 @@ $$
 
 ## 8. Schriftart
 
-### 8.1. Strg-bezogen
+### 8.1. `Strg`
 
-##### Einschließlich `*`-Klasse
+##### 1. mit `*`
 
 ###### Fett, kursiv
 
-##### [`<>` und `</>` bilden eine Klasse](#__auch`<>`und `</>`bilden eine Klasse von Code)
+##### 2. [`<>` und `</>`](#__auch`<>`und `</>`)
 
-Unterstrich
+###### Unterstrich
+
+###### Beispiel
 
 ```
 **Fette Schrift**
@@ -203,9 +205,9 @@ Strg + i
 
 ### 8.2. die Schriftfarbe
 
-Die Änderung der Schriftfarbe erfolgt ebenfalls über
+Die Änderung der Schriftfarbe erfolgt 
 
-##### [auch `<>` und `</>` bilden eine Klasse von Code](#__`<>`und `</>`bilden eine Klasse von Code)
+##### [auch `<>` und `</>`](#__`<>`und `</>` )
 
 ```markdown
 <span style="color: orange">Dieser Satz wird orange gefärbt</span>
