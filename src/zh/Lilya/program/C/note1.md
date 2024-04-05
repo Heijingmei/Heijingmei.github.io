@@ -23,12 +23,12 @@ editLink: false
 backToTop: true
 ---
 
-# What is C programm languege?
+## What is C programm languege?
 
 **C语言**（英語：**C Language**）是一种通用的、**[过程式](https://zh.wikipedia.org/wiki/过程式编程)**[**编程**語言](https://zh.wikipedia.org/wiki/程式語言)，支持[结构化编程](https://zh.wikipedia.org/wiki/结构化编程)、词法作用域和**<u>递归</u>**，使用静态类型系统，并且广泛用于[系统软件](https://zh.wikipedia.org/wiki/系统软件)与[应用软件](https://zh.wikipedia.org/wiki/应用软件)的开发。
 C语言于1969年至1973年间，为了移植与开发[UNIX](https://z.wikipedia.org/wiki/UNIX)[作业系统](https://zh.wikipedia.org/wiki/作業系統)，由[丹尼斯·里奇](https://zh.wikipedia.org/wiki/丹尼斯·里奇)与[肯·汤普逊](https://zh.wikipedia.org/wiki/肯·汤普逊)，以[B语言](https://zh.wikipedia.org/wiki/B语言)为基础，在[贝尔实验室](https://zh.wikipedia.org/wiki/贝尔实验室)设计、开发出来。
 
-(返回🔙 [rust](../rust/note1))
+<span style="color: #BFBFBF">(🔙返回 [rust](../rust/note1))</span>
 
 # Hallo, world!
 
@@ -73,7 +73,7 @@ int main() {
     //TODO: 格式指定符（%ld）的字符串
 }
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1697281955806-6ad2a6e4-683d-45cd-b19c-e7294d546103.png#averageHue=%232d2c2c&clientId=uc1e0b81b-207e-4&from=paste&height=165&id=OpAyL&originHeight=206&originWidth=421&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=12249&status=done&style=none&taskId=u755595bc-41f3-48a7-9c9e-09d39f14911&title=&width=336.8)
+![image.png](./note1.assets/image(1).png)
 
 A. int, double, char, boolean
 B. int, bool, string
@@ -855,8 +855,8 @@ int main() {
 
 > 给代码添加注释是良好的编程实践。它有助于你和他人清楚地了解代码。符号|内容|
 
+## **算术运算符**
 
-# **算术运算符**
 ### C 支持的 **算术运算符**：
 `+`（加法）、`-`（减法）、`*`（乘法）、`/`（除法）和 `%`（模除法）。
 运算符经常用来组成一个**算术表达式**，如`10+5`，在这种情况下，它包含两个**操作数**和**加法**运算符。
@@ -1185,6 +1185,8 @@ int y = 7;
 x++; //9
 x += y--;//x = 9+7 = 16 y = 6 
 ```
+
+
 
 ## 练习
 
