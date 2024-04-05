@@ -3,12 +3,9 @@ title: Bitte warten Sie eine kurze Zeit! 敬请期待
  
 author: Lilya 黑静美
 isOriginal: true
-category: 
-    - Programmierung
-tag:
-    - C
-    - C#
-icon: c
+category: - warten
+tag: - warten
+icon: w
 sticky: false
 star: false
 article: true

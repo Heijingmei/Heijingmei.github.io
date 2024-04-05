@@ -3,12 +3,9 @@ title: practice
  
 author: Lilya 黑静美
 isOriginal: true
-category: 
-    - 
-tag:
-    - 
-    - 
-icon: 
+category: - warten
+tag: - warten
+icon: w
 sticky: false
 star: false
 article: true
