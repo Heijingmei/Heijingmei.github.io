@@ -169,7 +169,7 @@ $$
 
 ###### Fett, kursiv
 
-##### [`<>` und `</>` bilden eine Klasse](#__`<>`und `</>`bilden eine Klasse von Code)
+##### [`<>` und `</>` bilden eine Klasse](#__auch`<>`und `</>`bilden eine Klasse von Code)
 
 Unterstrich
 
@@ -201,11 +201,11 @@ Strg + i
 
 <u>Unterstrich</u>
 
-### 8.2. Ändern der Schriftfarbe
+### 8.2. die Schriftfarbe
 
 Die Änderung der Schriftfarbe erfolgt ebenfalls über
 
-##### [`<>` und `</>` bilden eine Klasse von Code](#__`<>`und `</>`bilden eine Klasse von Code)
+##### [auch `<>` und `</>` bilden eine Klasse von Code](#__`<>`und `</>`bilden eine Klasse von Code)
 
 ```markdown
 <span style="color: orange">Dieser Satz wird orange gefärbt</span>
