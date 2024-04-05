@@ -12,7 +12,7 @@ The main members of the studio and thier business are:
 
 Lilya 黑静美(Web Design) 
 
-Qingjing 青菁(Heilende Tarot-Kunst)
+Qingjing 青菁(Healing Tarot)
 
 If you have any re or want to cooperate with us, please contact Miss Qingjing via WeChat: BH__Qingjing.<br>
 
