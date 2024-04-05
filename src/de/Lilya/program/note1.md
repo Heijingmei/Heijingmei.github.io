@@ -23,7 +23,7 @@ tag:
 
 ###### Sechste Ebene
 
-####### am meisten sechs Ebenen für Titel
+####### am meisten sechs Ebenen
 
 # 0. Versuch
 
