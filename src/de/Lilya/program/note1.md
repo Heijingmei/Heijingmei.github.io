@@ -28,9 +28,11 @@ tag:
 
 ###### ⬆️Erste Ebene
 
-Wenn oben ein `Titel` vorhanden ist, wird er nicht angezeigt, wenn er am Anfang steht.(Auf Chinesischer Version) ⬇️
+Beispiel⬇️
 
-![Bild](./note1.assets/image-20240329175336380.png) (Anweisungen zum Einfügen von Bildern finden Sie [im Punkt 4](#_4-Bilder))
+![image-20240405162030961](./note1.assets/image-20240405162030961.png)
+
+(Anweisungen zum Einfügen von Bildern finden Sie [im Punkt 4](#_4-Bilder))
 
 Der obige Code lautet:
 
