@@ -31,4 +31,4 @@ backToTop: true
 
 Please wait for some time.This module is coming soon. 
 
-Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.
+Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.   
