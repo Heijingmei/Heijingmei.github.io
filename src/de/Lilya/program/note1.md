@@ -169,7 +169,7 @@ $$
 
 ###### Fett, kursiv
 
-##### [2. `<>` und `</>`](#_8-2-die-Schriftfarbe)
+##### [2. `<>` und `</>`](#_8-2-die-schriftfarbe)
 
 ###### Unterstrich
 
@@ -207,7 +207,7 @@ Strg + i
 
 Die Änderung der Schriftfarbe erfolgt ebenfalls
 
-##### [`<>` und `</>`](#_8-1-strg-bezogen)
+##### [`<>` und `</>`](#_8-1-strg)
 
 ```markdown
 <span style="color: orange">Dieser Satz wird orange gefärbt</span>
