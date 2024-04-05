@@ -236,7 +236,7 @@ Die Änderung der Schriftfarbe erfolgt ebenfalls
 
 <span style="color: #BFBFBF">Dieser Satz wird in einer anderen weniger üblichen Graufarbe gefärbt</span>
 
-### 8.3. Andere Texteffekte
+### 8.3. die andere Texteffekte
 
 ### Box
 
