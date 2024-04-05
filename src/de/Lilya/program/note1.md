@@ -75,6 +75,7 @@ Der obige Code lautet:
 Dann einrücken mit der `Tab`-Taste
 
 -  
+    
     -  Zweite Ebene ungeordnet
         - Dritte Ebene ungeordnet
 
@@ -168,7 +169,7 @@ $$
 
 ###### Fett, kursiv
 
-##### 2. [`<>` und `</>`](#__auch`<>`und `</>`)
+##### [2. `<>` und `</>`](#_8-2-die-Schriftfarbe)
 
 ###### Unterstrich
 
@@ -204,9 +205,9 @@ Strg + i
 
 ### 8.2. die Schriftfarbe
 
-Die Änderung der Schriftfarbe erfolgt 
+Die Änderung der Schriftfarbe erfolgt ebenfalls
 
-##### [auch `<>` und `</>`](#__`<>`und `</>` )
+##### [`<>` und `</>`](#_8-1-strg-bezogen)
 
 ```markdown
 <span style="color: orange">Dieser Satz wird orange gefärbt</span>
