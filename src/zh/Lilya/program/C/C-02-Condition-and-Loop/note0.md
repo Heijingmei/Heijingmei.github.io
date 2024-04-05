@@ -45,13 +45,13 @@ int main() {
     int n;
     int a =5 , b = 10;
 
+//这样避免了嵌套
     if(n > 0 && n <= 100){
         printf("Range(1 - 1OO).\n");
+//该行代码由于不满足if的条件没有打印
     }
+   
 
-    if(a == 5 && b == 10){
-        printf("Both conditions are true.\n");
-    }
 
     return 0;
 }
@@ -73,6 +73,7 @@ int main() {
 
 逻辑与运算符&&只有在两个表达式都为真时才会返回一个真结果.
 ```c
+//这样可以合并两个if 减少代码
     if(n == 'x' || n == 'X'){
         printf("Raman numeral value 10.\n");
     }
@@ -83,7 +84,6 @@ int main() {
 任何数量的表达式都可以用 && 和 || 连接. 例如:
 
 ```c
-
 #include <stdio.h>
 
 int main() {
@@ -110,10 +110,11 @@ if (n == 'x' ___ n == 'X') {
 #include <stdio.h>
 
 int main() {
-//    char n = 'V';
-//    if(!(n == 'x' || n == 'X')){
-//        printf("Roman numeral is not 10. \n");
-//    }
+    char n = 'V';
+    if(!(n == 'x' || n == 'X')){
+        printf("Roman numeral is not 10. \n");
+    }
+    
     int a = 5;
     if (!(a == 6)){
         printf("a ist not equal to 6. \n");
@@ -131,15 +132,18 @@ int main() {
 #include <stdio.h>
 
 int main() {
-    int temperature = 24;        // 假设温度是24°C
+int temperature = 24;        // 假设温度是24°C
     int isSunny = 1;             // 假设天气是晴朗的(1表示真,0表示假)
-
+    int isRainy = 0;
     if (temperature >= 20 && temperature <= 30 && isSunny) {
         printf("天气很好,建议您外出散步!\n");
     } else {
         printf("或许您应该留在室内.\n");
     }
-
-    return 0;
-}
+    if (!(isRainy)) {
+        printf("不用带伞\n");
+        if (!(isRainy)==1) printf("逻辑非将假值（原本为0的值）转换为 1");
+    } else {
+        printf("出门记得得带伞\n");
+    }
 ```

@@ -21,6 +21,7 @@ comment: true
 lastUpdated: true
 editLink: false
 backToTop: true
+
 ---
 
 ## 「三元操作符」
@@ -57,6 +58,12 @@ int main (){
 
 }
 ```
+
+
+
+### 练习
+
+将以下语句用三元操作符表达
 
 ```c
 #include <stdio.h>
