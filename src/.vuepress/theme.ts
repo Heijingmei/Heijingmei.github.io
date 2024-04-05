@@ -104,7 +104,7 @@ export default hopeTheme({
     },
 
     //为什么德语版不显示呢
-    "de": {
+    "/de/": {
       footer: "bearbeitet by Lilya 黑静美",
 
       displayFooter: true,
