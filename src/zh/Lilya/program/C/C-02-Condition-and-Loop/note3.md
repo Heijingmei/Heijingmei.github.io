@@ -62,7 +62,7 @@ switch 可以有多个 case。
 > ⚠️注意
 > 为什么需要break？——如果没有break， 则会在匹配之后执行后续的代码。代码示例如下：
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1701603113235-0a2f85c5-4337-421c-acae-c91a40bd7805.png#averageHue=%232d2c2c&clientId=ue2d7f0d1-ccb4-4&from=paste&height=157&id=OoTGB&originHeight=314&originWidth=778&originalType=binary&ratio=2&rotation=0&showTitle=false&size=20773&status=done&style=none&taskId=ud2395cc8-6983-45c4-a7ff-8f9f32ddad9&title=&width=389)![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1701603149535-4c7ac571-7a1a-412f-b805-878ccad77e4b.png#averageHue=%232f2f2f&clientId=ue2d7f0d1-ccb4-4&from=paste&height=162&id=ZfqSc&originHeight=324&originWidth=1138&originalType=binary&ratio=2&rotation=0&showTitle=false&size=24922&status=done&style=none&taskId=ue409529d-155a-40ab-b29e-986727361a7&title=&width=569)
+![image.png](./note3.assets/1701603113235-0a2f85c5-4337-421c-acae-c91a40bd7805.png)![image.png](./note3.assets/1701603149535-4c7ac571-7a1a-412f-b805-878ccad77e4b.png)
 
 如果没有 break 语句，程序的执行就会落到下一个 case 语句上。当多个 case 会执行相同逻辑，这一点很有用。考虑下面的 switch 语句：
 以这种方式构建 switch 语句时，必须谨慎行事。之后的修改可能会导致意外的结果。

@@ -198,9 +198,10 @@ int main() {
 }
 ```
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1697886032745-a6a9c745-d596-4a42-9a2c-c909047449a8.png#averageHue=%232f2e2e&clientId=u5dabb720-b140-4&from=paste&height=171&id=u65949d67&originHeight=214&originWidth=628&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=19402&status=done&style=none&taskId=ub3f7b669-ac35-4735-9c28-c795a77a114&title=&width=502.4)
+![image(2)](./note1.assets/image(2).png)
 
 常量在声明时**必须用一个值进行初始化**，因为常量在创建出来之后，不能被修改。所以，一开始如果不赋值的话，在后面你就无法赋值了。
+
 ## define
 
 ### const 和 define 在 C 语言中都可以用来定义常量，但是它们的工作方式有所不同，并且各有各的用途。以下是它们之间的一些主要区别：
@@ -292,11 +293,13 @@ int main() {
 
 }
 ```
-** **
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1698576958288-4f092b95-2347-480a-9c08-57ecc64ac7af.png#averageHue=%23303030&clientId=udb70a852-d27c-4&from=paste&height=146&id=tHTSW&originHeight=292&originWidth=1122&originalType=binary&ratio=2&rotation=0&showTitle=false&size=22657&status=done&style=none&taskId=uda598012-d9ae-4948-905d-f9dc916e460&title=&width=561)
+****
+![image.png](./note1.assets/image(3).png)
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1698577028253-05ebd10f-3f16-4335-9d57-6062a6bb3821.png#averageHue=%232e2e2e&clientId=udb70a852-d27c-4&from=paste&height=147&id=HcfmM&originHeight=388&originWidth=1494&originalType=binary&ratio=2&rotation=0&showTitle=false&size=30557&status=done&style=none&taskId=u2eab4ef3-7c92-4b2d-84ae-cedbc6a62c0&title=&width=565)
+![image.png](./note1.assets/image(4).png)
+
 使用数组已获得更多可识别的输入类型
+
 ```c
 #include <stdio.h>
 
@@ -312,9 +315,9 @@ int main() {
 
 }
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1698577789867-d4c85d35-d4ee-4513-91c9-ca9792207571.png#averageHue=%23323030&clientId=udb70a852-d27c-4&from=paste&height=183&id=VgTlC&originHeight=366&originWidth=1140&originalType=binary&ratio=2&rotation=0&showTitle=false&size=33956&status=done&style=none&taskId=u5c176e08-c0f5-459e-81aa-038e7623b55&title=&width=570)
+![image.png](./note1.assets/image(5).png)
 ### scanf
- 
+
 `scanf()` 扫描符合格式指定符的输入。
 
 **例如：**
@@ -476,7 +479,7 @@ int main() {
     return 0;
 }
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1698580542956-fa9eb424-cc2f-4244-a2a6-0968008dd9c7.png#averageHue=%232e2e2e&clientId=udb70a852-d27c-4&from=paste&height=254&id=E9wj5&originHeight=508&originWidth=1340&originalType=binary&ratio=2&rotation=0&showTitle=false&size=45620&status=done&style=none&taskId=u16d131db-3529-419a-bcbf-09be2d98965&title=&width=670)
+![image.png](./note1.assets/1698580542956-fa9eb424-cc2f-4244-a2a6-0968008dd9c7.png)
 这段代码是有问题的，因为当用户输入的字符串长度超过数组的长度时，`fgets()` 将会写入超过数组长度的数据，可能会破坏内存中的其他数据，导致未定义的行为。这可能会引发安全问题，因此必须避免。
 
 总的来说，你总是需要确保你为 `fgets()` 提供的缓冲区大小不超过你的字符数组的实际大小，以防止缓冲区溢出。
@@ -1079,7 +1082,7 @@ int main() {
 
 }
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/39218772/1700394800397-3911208d-f2ae-44fa-badd-9f7231e8f722.png#averageHue=%23393e42&clientId=u7150809b-39e5-4&from=paste&height=162&id=u7e87a5dc&originHeight=324&originWidth=1160&originalType=binary&ratio=2&rotation=0&showTitle=false&size=38689&status=done&style=none&taskId=u30c80c94-bad8-4a8d-a1bb-18711c3886c&title=&width=580)
+![image.png](./note1.assets/image(7).png)
 浮点数默认为double类型，如果想要使用单精度，请标明“f”
 
 在 C 语言中，当两个不同的数据类型进行运算时，C 语言会进行自动类型转换，以确保数据不会因为类型不匹配而发生错误。这种转换通常是根据类型的“精度”来进行的。以下是 C 语言中基本数据类型的精度顺序，从最低到最高：
