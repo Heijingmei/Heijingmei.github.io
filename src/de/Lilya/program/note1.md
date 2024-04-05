@@ -267,13 +267,13 @@ Wenn Sie `Enter`(`return`) drücken, sieht es so aus:
 - [ ]
 - 
 
-##  9. Wie man den Texteffekt vor dem Rendern anzeigen lässt
+##  9. Wie kann man den Texteffekt vor dem Rendern anzeigen
 
 ```markdown
 Strg + /
 ```
 
-## 10. Einige Funktionen erfordern Plugins
+## 10. Einige Effekte `mit Plugins`
 
 ```python
 
