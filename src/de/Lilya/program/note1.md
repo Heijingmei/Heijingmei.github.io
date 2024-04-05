@@ -52,7 +52,7 @@ Der obige Code lautet:
 
 
 
-## 1. (Kein Titel) Trennlinie
+## 1. Trennlinie
 
 ```markdown
 ---
