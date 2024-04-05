@@ -1,7 +1,7 @@
 ---
 title: 网站内容加密
 
-icon: m
+icon: /img/Secret.png
 ---
 
 ## 不同仓库的自动化部署
