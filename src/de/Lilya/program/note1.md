@@ -1,6 +1,12 @@
 ---
 icon: m
 star: true
+category: 
+    - Programmierung
+tag:
+    - Syntax
+    - markdown
+icon: m
 ---
 
 # Markdown-Syntax

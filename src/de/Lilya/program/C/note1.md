@@ -4,7 +4,7 @@ date: 2024-4-5
 author: Lilya 黑静美
 isOriginal: true
 category: 
-    - Programm
+    - Programmierung
 tag:
     - C
     - C#
