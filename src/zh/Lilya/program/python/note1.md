@@ -7,7 +7,6 @@ category:
     - 编程
 tag:
     - python
-    - 
 icon: /img/Python.ico
 sticky: false
 star: false

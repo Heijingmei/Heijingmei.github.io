@@ -6,7 +6,7 @@ category:
     - Programm
 tag:
     - rust
-    -
+    - syntax
 icon: /img/Rust.ico
 sticky: true
 star: false

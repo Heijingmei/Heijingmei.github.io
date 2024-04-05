@@ -3,11 +3,7 @@ title: Einführung des Moduls Tarot
  
 author: Qingjing 青菁
 isOriginal: true
-category: 
-    - 
-tag:
-    - 
-    - 
+
 icon: /img/crystal-ball.ico
 sticky: false
 star: true

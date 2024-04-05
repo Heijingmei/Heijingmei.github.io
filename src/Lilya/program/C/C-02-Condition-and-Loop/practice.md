@@ -3,11 +3,7 @@ title: Übungen
  
 author: Lilya 黑静美
 isOriginal: true
-category: 
-    - 
-tag:
-    - 
-    - 
+
 icon: 
 sticky: false
 star: false
