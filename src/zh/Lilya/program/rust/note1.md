@@ -7,7 +7,6 @@ category:
     - 编程
 tag:
     - rust
-    -
 icon: /img/Rust.ico
 sticky: false
 star: false
