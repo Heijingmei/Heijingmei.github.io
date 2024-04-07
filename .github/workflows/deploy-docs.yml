@@ -12,7 +12,6 @@ permissions:
      #修改上面的name和jobs相关的内容
 jobs:
   deploy-gh-pages:
-    build-and-deploy:
     concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
