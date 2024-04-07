@@ -104,7 +104,7 @@ star: true
 
 ![](./note1.assets/image-20240404213816087.png)
 
-(请不要再套娃啦！！！！！！)
+(请不要再套娃啦!!!!!!)
 
 
 
@@ -222,7 +222,7 @@ ctrl + i
 
 ```html
 <span style="color: grey">这句话的颜色会改变为一种灰色</span>
-<span style="color: #808080">按照编码值，这和上面的灰色是一样的</span>
+<span style="color: #808080">按照编码值,这和上面的灰色是一样的</span>
 
 
 <span style="color: #ABABAB">这句话的颜色会改变为一种不常见的灰色</span>
@@ -231,7 +231,7 @@ ctrl + i
 
 <span style="color: grey">这句话的颜色会改变为一种灰色</span>
 
-<span style="color: #808080">按照编码值，这和上面的灰色是一样的</span>
+<span style="color: #808080">按照编码值,这和上面的灰色是一样的</span>
 
 <span style="color: #ABABAB">这句话的颜色会改变为一种不常见的灰色</span>
 
