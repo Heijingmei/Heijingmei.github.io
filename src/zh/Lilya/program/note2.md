@@ -101,3 +101,4 @@ on:
        CNAME
 ```
 
+![image-20240407155234695](./note2.assets/image-20240407155234695.png)
