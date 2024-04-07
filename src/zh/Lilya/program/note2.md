@@ -51,7 +51,7 @@ ssh-keygen -t ed25519 -c "id_github_deploy_to_blog"
 
 在当前仓库和目的仓库配置好密钥
 
-对应的 `ssh-key: ${{ secrets.BLOG_PRIVATE_KEY }}` 要和仓库中定义的匹配
+对应的 `ssh-key: ${{ secrets.BLOG_PRIVATE_KEY }}` 要和仓库中的定义匹配
 
 
 
