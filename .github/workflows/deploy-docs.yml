@@ -50,9 +50,4 @@ jobs:
           # This is the branch where the docs are deployed to
           clean: true # 默认清除,可以不配置
           branch: gh-pages # 默认分支,可不配置
-          repository-name: AndersonHJB/blog # 提交的目的仓库
-          ssh-key: ${{ secrets.BLOG_PRIVATE_KEY }} # 私钥配置在当前仓库中(settings/secrets and variables/actions/secrets),公钥配置在目的仓库中(settings/Deploy keys)
-          folder: src/.vuepress/dist # 需要提交的目录文件
-          clean-exclude: 
-          CNAME
 
