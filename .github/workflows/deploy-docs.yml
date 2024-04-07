@@ -9,7 +9,7 @@ on:
 
 permissions:
   contents: write
-     #修改上面的name和job相关的内容
+     #修改上面的name和jobs相关的内容
 jobs:
   deploy-gh-pages:
     build-and-deploy:
