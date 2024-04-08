@@ -34,4 +34,4 @@ Please wait for some time.This module is coming soon.
 
 Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.   
 
-![image.png](../../../../../IMG_0411.PNG)
+![image.png](./intro.assets/IMG_0411.PNG)
