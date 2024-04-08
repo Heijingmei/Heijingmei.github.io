@@ -29,7 +29,7 @@ ssh-keygen -t ed25519 -c "id_github_deploy_to_blog"
 | id_ed25519.pub | Git_Hub公开部分 | [见下](#依然使用cat抓取`KEY`) |
 | id_ed25519     | Git_Hub私有仓库 |                               |
 
-![image-20240404172850054](./note2.assets/image-20240404172850054.pngs
+![image-20240404172850054](./note2.assets/image-20240404172850054.png)
 
 ![](./note2.assets/image-20240404171854136.png)
 
@@ -94,7 +94,7 @@ on:
      with:
        clean: true # 默认清除，可以不配置
        branch: gh-pages # 默认分支，可不配置
-       repository-name: Heijingmei/ # 提交的目的仓库
+       repository-name: AndersonHJB/blog # 提交的目的仓库
        ssh-key: ${{ secrets.BLOG_PRIVATE_KEY }} # 私钥配置在当前仓库中(settings/secrets and variables/actions/secrets),公钥配置在目的仓库中(settings/Deploy keys)
        folder: src/.vuepress/dist # 需要提交的目录文件
        clean-exclude: |

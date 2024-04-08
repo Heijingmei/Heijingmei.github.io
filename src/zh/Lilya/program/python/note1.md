@@ -26,7 +26,7 @@ backToTop: true
 
 
 
-Please wait for some time! 敬请期待
+Please wait for some time! 敬请期待 
 
 Please wait for some time.This module is coming soon. 
 
