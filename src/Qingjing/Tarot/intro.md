@@ -32,5 +32,3 @@ backToTop: true
 Please wait for some time.This module is coming soon. 
 
 Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.   
-
-![image.png](./intro.assets/img_0411.png)
