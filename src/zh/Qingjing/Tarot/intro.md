@@ -24,4 +24,6 @@ backToTop: true
 
 ---
 
-## Please wait for some time!![Qingjing](./intro.assets/Qingjing-2612619.png)
+## Please wait for some time!
+
+![Qingjing](./intro.assets/Qingjing.png)
