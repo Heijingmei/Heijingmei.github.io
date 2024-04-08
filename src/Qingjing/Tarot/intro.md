@@ -9,6 +9,7 @@ tag:
     - healing
 icon: /img/crystal-ball.ico
 sticky: false
+# bgImage: ./img/background1.png
 star: true
 article: true
 timeline: true
