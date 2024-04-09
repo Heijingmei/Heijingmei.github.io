@@ -3,7 +3,7 @@ title: Please wait for some time! 敬请期待!
  
 author: Lilya 黑静美
 isOriginal: true
-category:
+category: 
     - Mathe
     - functional
 tag:
@@ -32,6 +32,6 @@ backToTop: true
 
 敬请期待
 
-Please wait for some time.This module is coming soon.
+Please wait for some time.This module is coming soon. 
 
 Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.

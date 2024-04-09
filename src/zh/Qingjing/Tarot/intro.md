@@ -24,6 +24,12 @@ backToTop: true
 
 ---
 
-## Please wait for some time!
 
-![Qingjing](./intro.assets/Qingjing.png)
+
+# Please wait for some time! 敬请期待
+
+敬请期待
+
+Please wait for some time.This module is coming soon. 
+
+Bitte warten Sie eine kurze Zeit. Dieser Inhalt wird noch bearbeitet.
