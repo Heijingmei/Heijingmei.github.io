@@ -137,14 +137,7 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      
-      "Qingjing/Tarot/111.html": ["1234"],
-      "/zh/Qingjing/Tarot/111.html": ["1234"],
-      "/de/Qingjing/Tarot/111.html": ["1234"],
-    },
-  },
+  
 
   // enable it to preview all changes in time
   // hotReload: true,
