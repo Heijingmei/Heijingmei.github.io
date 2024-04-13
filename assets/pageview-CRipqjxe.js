@@ -1,1 +1,0 @@
-import{_ as o,u as n}from"./app-Cd9-ezDZ.js";const s=async()=>{try{const{pageviewCount:e}=await o(()=>import("./app-Cd9-ezDZ.js").then(r=>r.N),[]),t=n();return e({serverURL:t.serverURL})}catch{console.error("@waline/client is not installed!")}};export{s as updatePageview};
