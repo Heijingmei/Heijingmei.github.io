@@ -1,0 +1,1 @@
+import{_ as o,u as n}from"./app-CC2B59yG.js";const s=async()=>{try{const{pageviewCount:e}=await o(()=>import("./app-CC2B59yG.js").then(r=>r.N),[]),t=n();return e({serverURL:t.serverURL})}catch{console.error("@waline/client is not installed!")}};export{s as updatePageview};
